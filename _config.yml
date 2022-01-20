@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ruyuan Wan"
   avatar           : "profile.png"
-  bio              : "MA Linguistics "
-  location         : "Location"
+  bio              : "MA Linguistics & MS Data Science at University of Minneosta - Twin Cities"
+  location         : #"Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Syi-4BIAAAAJ&hl=en"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ruyuan-wan-07804b139/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ruyuan-wan-07804b139"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
