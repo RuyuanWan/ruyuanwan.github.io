@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Ruyuan Wan"
   avatar           : "profile.PNG"
-  bio              : "MA Linguistics & MS Data Science student at University of Minneosta"
-  location         : #"Location"
-  employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "MA Linguistics & <br/>MS Data Science student <br/> at University of Minneosta"
   googlescholar    : "https://scholar.google.com/citations?user=Syi-4BIAAAAJ&hl=en"
   email            :  "wanxx199@umn.edu"
+  linkedin         : "ruyuan-wan-07804b139"  
+  location         : #"Location"
+  employer         :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow" 
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +103,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ruyuan-wan-07804b139"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
