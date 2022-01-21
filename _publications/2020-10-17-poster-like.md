@@ -1,15 +1,6 @@
 ---
 title: "How much is a 'like' worth? Engagement and Retention in an Online Health Community"
 collection: publications
-permalink: /publication/2021-08-24-SocialDeterminers
-date: 2021-08-24
-venue: 'Health Data Science'
-paperurl: 'http://ruyuanwan.github.io/files/Social_determinants_of_health_in_the_era_of_AI.pdf'
----
-
----
-title: "How much is a "like" worth? Engagement and Retention in an Online Health Community"
-collection: publications
 permalink: /publication/2020-10-17-poster-like
 date: 2020-10-17
 venue: 'CSCW'
