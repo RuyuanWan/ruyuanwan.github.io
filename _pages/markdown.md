@@ -1,10 +1,9 @@
 ---
-permalink: /markdown/
+permalink: /miscellaneous/
 title: "Miscellaneous"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /miscellaneous.html
 ---
 
 **I love adventures, museums, and nature!**
