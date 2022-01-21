@@ -6,8 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Miscellaneous"
-    url: /Miscellaneous/ 
+#  - title: "Miscellaneous"
+    url: /miscellaneous/
+
+#  - title: "Markdown"
+#    url: /markdown/ 
 
 #  - title: "CV"
     url: /cv/
@@ -15,8 +18,6 @@ main:
 #  - title: "Talks"
     url: /talks/    
     
-#  - title: "Portfolio"
-    url: /portfolio/
         
 #  - title: "Blog Posts"
     url: /year-archive/
