@@ -24,7 +24,7 @@ Here are some fun activities that I did and would like to share with you:
 
 <figure>
     <figcaption> Fig.3 - Ice Climbing at Sandstone Ice Park </figcaption>
-    <img src="/images/ice_climbing.jpg", style="width:50%"/>
+    <img src="/images/ice_climbing.jpg" style="width:50%"/>
 </figure>
 
 <figure>
