@@ -1,5 +1,5 @@
 ---
-title: "Social and Behavioral Determinants of Health in the Era of Artificial Intelligence with Electronic Health Records: A Scoping Review"
+title: "How much is a 'like' worth? Engagement and Retention in an Online Health Community"
 collection: publications
 permalink: /publication/2021-08-24-SocialDeterminers
 date: 2021-08-24
