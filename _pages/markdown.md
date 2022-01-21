@@ -22,7 +22,7 @@ Here are some fun activities that I did and would like to share with you:
 </figure>
 
 <figure>
-  <figcaption> Fig.3 - Rock Climbing at Interstate State Park, you can see a great view of Taylor's Fall on the cliff </figcaption>  
+  <figcaption> Fig.3 - Rock Climbing at Interstate State Park </figcaption>  
   <img src="/images/RockClimbing.jpg" style="width:50%" class="center"/>
 </figure>
 
