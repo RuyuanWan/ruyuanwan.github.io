@@ -16,6 +16,7 @@ My research interest is in the intersection of human-computer interaction (HCI) 
 
 I obtained my bachelor degree in statistics from University of Minneosta - Twin Cities.
 
+<img src="/images/Minneapolis.png"/>
 
 Updates
 ======
