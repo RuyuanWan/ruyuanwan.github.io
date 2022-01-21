@@ -6,11 +6,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-#  - title: "Miscellaneous"
+  - title: "Miscellaneous"
     url: /miscellaneous/
 
-#  - title: "Markdown"
-#    url: /markdown/ 
 
 #  - title: "CV"
     url: /cv/
