@@ -12,10 +12,11 @@ redirect_from:
 Here are some fun activities that I did and would like to share with you: 
 
 
-<figure>
-    <figcaption> Fig.1 - Winter Camping at Afton State Park</figcaption>
-    <img src="/images/winter_camping.jpg" style="width:50%" class="center"/>
-</figure>
+<p align="center">
+  <figcaption> Fig.1 - Winter Camping at Afton State Park</figcaption>
+  <img src="/images/winter_camping.jpg" style="width:50%">
+</p>
+
 
 <figure>
     <figcaption> Fig.2 - Sky Diving at my 24th birthday </figcaption>
