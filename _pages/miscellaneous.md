@@ -7,12 +7,12 @@ redirect_from:
   - /miscellaneous.html
 ---
 
-<img src="Minneapolis.jpg"/>
+#<img src="Minneapolis.jpg"/>
 
-<img src="winter_camping.jpg"/>
+#<img src="winter_camping.jpg"/>
 
-<img src="sky_diving.jpg"/>
+#<img src="sky_diving.jpg"/>
 
-<img src="ice_climbing.jpg"/>
+#<img src="ice_climbing.jpg"/>
 
-<img src="rock_climbing.jpg"/>
+#<img src="rock_climbing.jpg"/>
