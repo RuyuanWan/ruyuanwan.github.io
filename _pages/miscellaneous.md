@@ -7,7 +7,7 @@ redirect_from:
   - /miscellaneous.html
 ---
 
-<img src="/images/Minneapolis.jpg"/>
+<img src="/images/Minneapolis.png"/>
 
 <img src="/images/winter_camping.jpg"/>
 
