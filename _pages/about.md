@@ -19,5 +19,6 @@ I obtained my bachelor degree in statistics from University of Minneosta - Twin 
 
 Updates
 ======
-**Oct. 2021: ** I started my research internship at Samsung Research America.   
-**Oct. 2020: ** My poster *how much is a like worth? Engagement and Retention in an Online Health Community* was awarded a recognition for Outstanding Poster! 
+
+**Oct. 2021:** I started my research internship at Samsung Research America.   
+**Oct. 2020:** My poster *how much is a like worth? Engagement and Retention in an Online Health Community* was awarded a recognition for Outstanding Poster! 
