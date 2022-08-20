@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Minneapolis.png"/>
 
 Hello! 👋<br/>
 
