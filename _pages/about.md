@@ -19,5 +19,7 @@ Updates
 ======
 
 **Aug. 2022:** Started my Ph.D. journey at the University of Notre Dame!
+
 **Oct. 2021:** I started my research internship at Samsung Research America.   
+
 **Oct. 2020:** My poster *how much is a like worth? Engagement and Retention in an Online Health Community* was awarded a recognition for Outstanding Poster! 
