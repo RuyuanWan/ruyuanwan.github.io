@@ -21,8 +21,8 @@ My research interest is in the intersection of human-computer interaction (HCI) 
 Updates
 ======
 
-**Aug. 2022:** Started my Ph.D. journey at the University of Notre Dame! 
-**Jun. 2022:** Research Internship at the Minnesota NLP lab, working on subjective annotation disagreement. 
-**May 2022:** Defended my M.A. Linguistics thesis "Riddikulus: Detection of Persuasion Techniques in Memes"!  
-**Oct. 2021:** I started my research internship at Samsung Research America, working on coreference resolution in dialogue.  
-**Oct. 2020:** My poster *how much is a like worth? Engagement and Retention in an Online Health Community* was awarded a recognition for Outstanding Poster!  
+**Aug. 2022:** Started my Ph.D. journey at the University of Notre Dame! <br/>
+**Jun. 2022:** Research Internship at the Minnesota NLP lab, working on subjective annotation disagreement. <br/>
+**May 2022:** Defended my M.A. Linguistics thesis "Riddikulus: Detection of Persuasion Techniques in Memes"!  <br/>
+**Oct. 2021:** I started my research internship at Samsung Research America, working on coreference resolution in dialogue.  <br/>
+**Oct. 2020:** My poster *how much is a like worth? Engagement and Retention in an Online Health Community* was awarded a recognition for Outstanding Poster!  <br/>
