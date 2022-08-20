@@ -18,7 +18,7 @@ My research interest is in the intersection of human-computer interaction (HCI) 
 - **Design User Engaggement** in Online Communities for Social Good 
 - **Develop Explainable Human-centered Language Technologies** 
 
-Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/statistics), Masters degrees in [Data Science](https://cse.umn.edu/datascience) and [Linguistics](https://cla.umn.edu/linguistics) all from the University of Minnesota. During that time, I was advised by [Dr. Lana Yarosh](https://lanayarosh.com/), [Dr. Maria Gini](https://www-users.cse.umn.edu/~gini/), and worked with [Dr. Dongyoep Kang](https://dykang.github.io/)  
+Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/statistics), Masters degrees in [Data Science](https://cse.umn.edu/datascience) and [Linguistics](https://cla.umn.edu/linguistics) all from the [University of Minnesota](https://twin-cities.umn.edu/). During that time, I was advised by [Dr. Lana Yarosh](https://lanayarosh.com/), [Dr. Maria Gini](https://www-users.cse.umn.edu/~gini/), and worked with [Dr. Dongyoep Kang](https://dykang.github.io/)  
 
 Updates
 ======
