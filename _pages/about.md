@@ -24,6 +24,7 @@ Updates
 ======
 
 **Aug. 2022:** Started my Ph.D. journey at the University of Notre Dame! <br/>
+**Jul. 2022:** Selected as student volunteer for NAACL 2022! I served on two workshops: the workshop on online abuse and harms, and the international workshop on emoji understanding and applications in social media  
 **Jun. 2022:** Research Internship at the Minnesota NLP lab, working on subjective annotation disagreement. <br/>
 **May 2022:** Defended my M.A. Linguistics thesis "Riddikulus: Detection of Persuasion Techniques in Memes"!  <br/>
 **Oct. 2021:** I started my research internship at Samsung Research America, working on coreference resolution in dialogue.  <br/>
