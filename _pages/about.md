@@ -13,12 +13,15 @@ Hello! 👋<br/>
 
 I am a Ph.D. student in [Computer Science at the University of Notre Dame](https://cse.nd.edu/), working with [Dr. Karla Badillo-Urquiola](https://kbadillou.weebly.com//) at the EPOCH (Empowering People Organizations Communities through HCI) Lab.<br/>
 
-My research interest is in the intersection of human-computer interaction (HCI) and natural language processing (NLP), include: 
+My research interest is in the intersection of human-computer interaction (HCI) and natural language processing (NLP), including: 
 - **Understand Social Dynamics** in Language, e.g., social bias, propaganda, etc. 
-- **Design User Engaggement** in Online Communities for Social Good 
+- **Design User Engagement** in Online Communities for Social Good 
 - **Develop Explainable Human-centered Language Technologies** 
 
 Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/statistics), Masters degrees in [Data Science](https://cse.umn.edu/datascience) and [Linguistics](https://cla.umn.edu/linguistics) all from the [University of Minnesota](https://twin-cities.umn.edu/). During that time, I was advised by [Dr. Brian Reese](https://cla.umn.edu/about/directory/profile/breese), [Dr. Lana Yarosh](https://lanayarosh.com/), [Dr. Maria Gini](https://www-users.cse.umn.edu/~gini/), and worked with [Dr. Dongyeop Kang](https://dykang.github.io/).  
+
+
+
 
 Updates
 ======
