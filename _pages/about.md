@@ -25,7 +25,7 @@ Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/stat
 
 Updates
 ======
-**Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) was accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!
+**Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) was accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
 **Aug. 2022:** Started my Ph.D. journey at the University of Notre Dame! <br/>
 **Jul. 2022:** Selected as student volunteer for NAACL 2022! I served on two workshops: the workshop on online abuse and harms, and the international workshop on emoji understanding and applications in social media  
 **Jun. 2022:** Research Internship at the Minnesota NLP lab, working on subjective annotation disagreement. <br/>
