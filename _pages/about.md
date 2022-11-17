@@ -31,4 +31,4 @@ Updates
 **Jun. 2022:** Research Internship at the Minnesota NLP lab, working on subjective annotation disagreement. <br/>
 **May 2022:** Defended my M.A. Linguistics thesis "Riddikulus: Detection of Persuasion Techniques in Memes"!  <br/>
 **Oct. 2021:** I started my research internship at Samsung Research America, working on coreference resolution in dialogue.  <br/>
-**Oct. 2020:** 🥇 My poster *how much is a like worth? Engagement and Retention in an Online Health Community* was awarded a recognition for Outstanding Poster!  <br/>
+**Oct. 2020:** 🥇 My poster [*how much is a like worth? Engagement and Retention in an Online Health Community*](https://dl.acm.org/doi/abs/10.1145/3406865.3418320) was awarded a recognition for Outstanding Poster!  <br/>
