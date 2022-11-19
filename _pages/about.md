@@ -25,7 +25,8 @@ Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/stat
 
 Updates
 ======
-**Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) was accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
+**Nov. 2022:** 🎉 My first conference paper *Everyone’s Voice Matters: Quantifying and Distinguishing Subjective Annotation Disagreement Using Demoraphic Information* has been accepted at the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23). This yields an overall acceptance rate of 19.6%. 
+**Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) has been accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
 **Aug. 2022:** Started my Ph.D. journey at the University of Notre Dame! <br/>
 **Jul. 2022:** Selected as student volunteer for NAACL 2022! I served on two workshops: the workshop on online abuse and harms, and the international workshop on emoji understanding and applications in social media  
 **Jun. 2022:** Research Internship at the Minnesota NLP lab, working on subjective annotation disagreement. <br/>
