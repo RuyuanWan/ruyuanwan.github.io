@@ -25,6 +25,7 @@ Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/stat
 
 Updates
 ======
+**Dec. 2022:** I am thrilled to receive AAAI-23 student scholarship, Notebaert Professional Development Fund and GSG Conference Presentation Grant! Thanks!
 **Nov. 2022:** 🎉 My first conference paper *Everyone’s Voice Matters: Quantifying and Distinguishing Subjective Annotation Disagreement Using Demoraphic Information* has been accepted at AAAI 2023 (acceptance rate of 19.6%). <br/>
 **Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) has been accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
 **Aug. 2022:** Started my Ph.D. journey at the University of Notre Dame! <br/>
