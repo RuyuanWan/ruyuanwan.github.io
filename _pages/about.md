@@ -25,6 +25,7 @@ Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/stat
 
 Updates
 ======
+* **Feb. 2023:** I am grateful to receive Nanovic Institute Grant for my research! Thanks!<br/>
 * **Dec. 2022:** I am thrilled to receive AAAI-23 student scholarship, Notebaert Professional Development Fund and GSG Conference Presentation Grant! Thanks!<br/>
 * **Nov. 2022:** 🎉 My first conference paper [*Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information*](https://arxiv.org/pdf/2301.05036v1.pdf) has been accepted for oral presentation at AAAI 2023 (oral acceptance rate of 10%). <br/>
 * **Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) has been accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
