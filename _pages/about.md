@@ -18,7 +18,7 @@ My research interests lie at the intersection of Human-Computer Interaction (HCI
 My current work explores the following areas: 
 - **Understanding Social Dynamics in Language and Disagreement:** Exploring demographic biases, propaganda, and other influential factors while investigating the nuances of disagreement arising from subjectivity and positionality in both HCI and NLP contexts.
 - **User Engagement and Online Safety in Online Communities:** Designing strategies to promote positive user interactions and engagement in online spaces, contributing to social good, while ensuring the protection and well-being of marginalized populations, fostering inclusivity and safety.
-- **xplainable, Human-centered Language Technologies:** Developing transparent and understandable AI language systems that bridge the gap between complex algorithms and human users.
+- **Explainable, Human-centered Language Technologies:** Developing transparent and understandable AI language systems that bridge the gap between complex algorithms and human users.
 
 Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/statistics), Masters degrees in [Data Science](https://cse.umn.edu/datascience) and [Linguistics](https://cla.umn.edu/linguistics) all from the [University of Minnesota](https://twin-cities.umn.edu/). During that time, I was advised by [Dr. Brian Reese](https://cla.umn.edu/about/directory/profile/breese), [Dr. Lana Yarosh](https://lanayarosh.com/), [Dr. Maria Gini](https://www-users.cse.umn.edu/~gini/), and worked with [Dr. Dongyeop Kang](https://dykang.github.io/).  
 
