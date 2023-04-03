@@ -16,7 +16,7 @@ I am a Ph.D. student in [Computer Science at the University of Notre Dame](https
 My research interests lie at the intersection of Human-Computer Interaction (HCI), Natural Language Processing (NLP), Social Computing, and Responsible AI. I am passionate about understanding and improving the ways humans interact with AI and language technologies, with a strong focus on promoting social good and online safety.
 
 My current work explores the following areas: 
-- **Understanding Social Dynamics in Language and Disagreement:** Exploring demographic biases, propaganda, and other influential factors while investigating the nuances of disagreement arising from subjectivity and positionality in both HCI and NLP contexts.
+- **Understanding Social Dynamics and Disagreement:** Exploring demographic biases, propaganda, and other influential factors while investigating the nuances of disagreement arising from subjectivity and positionality in both HCI and NLP contexts.
 - **User Engagement and Online Safety in Online Communities:** Designing strategies to promote positive user interactions and engagement in online spaces, contributing to social good, while ensuring the protection and well-being of marginalized populations, fostering inclusivity and safety.
 - **Explainable, Human-centered Language Technologies:** Developing transparent and understandable AI language systems that bridge the gap between complex algorithms and human users.
 
