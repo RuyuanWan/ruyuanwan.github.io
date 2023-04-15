@@ -27,6 +27,7 @@ Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/stat
 
 Updates
 ======
+* **March 2023:** My position paper [*Control and Resistance: The dinamic interplay of Censorship and Circumvention*](http://ruyuanwan.github.io/files/Control_and_Resistance__Dynamic_Interplay_of_Censorship_and_Circumvention.pdf) has been accepted at [CHI 2023 workshop on Combating Toxicity, Harassment, and Abuse in Online Social Spaces](https://combatingonlinetoxicity.sites.uu.nl).
 * **Feb. 2023:** I am grateful to receive Nanovic Institute Grant for my research! Thanks!<br/>
 * **Dec. 2022:** I am thrilled to receive AAAI-23 student scholarship, Notebaert Professional Development Fund and GSG Conference Presentation Grant! Thanks!<br/>
 * **Nov. 2022:** 🎉 My first conference paper [*Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information*](https://arxiv.org/pdf/2301.05036v1.pdf) has been accepted for oral presentation at AAAI 2023 (oral acceptance rate of 10%). <br/>
