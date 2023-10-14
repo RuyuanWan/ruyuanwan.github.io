@@ -25,7 +25,7 @@ Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/stat
 
 
 
-Updates
+Highlights
 ======
 * **Sep. 2023:** 🌟 Organized my first research workshop on [*Community-Driven AI*](https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0) at CSCW 2023! 
 * **Nov. 2022:** 🎉 My first conference paper [*Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information*](https://arxiv.org/pdf/2301.05036v1.pdf) has been accepted for oral presentation at AAAI 2023 (oral acceptance rate of 10%). <br/>
