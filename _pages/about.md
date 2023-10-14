@@ -27,22 +27,27 @@ Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/stat
 
 Highlights
 ======
-* **Oct. 2023:** 🌟 Organized my first research workshop on [*Community-Driven AI*](https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0) at CSCW 2023!
 <figure>
+  <figcaption> 🌟 Organized my first research workshop on [*Community-Driven AI*](https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0) at CSCW 2023! </figcaption>
   <img src="/images/Community_AI.png" style="width:50%" class="center"/>
 </figure>
-
-* **Nov. 2022:** 🎉 My first conference paper [*Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information*](https://arxiv.org/pdf/2301.05036v1.pdf) has been accepted for oral presentation at AAAI 2023 (oral acceptance rate of 10%). <br/>
 <figure>
   <img src="/images/Disagreement.png" style="width:50%" class="center"/>
 </figure>
-
-* **Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) has been accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
 <figure>
   <img src="/images/user_labor.png" style="width:50%" class="center"/>
 </figure>
-
-* **Oct. 2020:** 🥇 My first research poster [*How much is a like worth? Engagement and Retention in an Online Health Community*](https://dl.acm.org/doi/abs/10.1145/3406865.3418320) was awarded a recognition for Outstanding Poster at the CSCW 2020!  <br/>
 <figure>
   <img src="/images/CaringBridge.png" style="width:50%" class="center"/>
 </figure> 
+
+* **Oct. 2023:** 🌟 Organized my first research workshop on [*Community-Driven AI*](https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0) at CSCW 2023!
+
+* **Nov. 2022:** 🎉 My first conference paper [*Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information*](https://arxiv.org/pdf/2301.05036v1.pdf) has been accepted for oral presentation at AAAI 2023 (oral acceptance rate of 10%). <br/>
+
+
+* **Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) has been accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
+
+
+* **Oct. 2020:** 🥇 My first research poster [*How much is a like worth? Engagement and Retention in an Online Health Community*](https://dl.acm.org/doi/abs/10.1145/3406865.3418320) was awarded a recognition for Outstanding Poster at the CSCW 2020!  <br/>
+
