@@ -20,21 +20,14 @@ My current work explores the following areas:
 - **User Engagement and Online Safety in Online Communities:** Designing strategies to promote positive user interactions and engagement in online spaces, contributing to social good, while ensuring the protection and well-being of marginalized populations, fostering inclusivity and safety.
 - **Explainable, Human-centered Language Technologies:** Developing transparent and understandable AI language systems that bridge the gap between complex algorithms and human users.
 
-Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/statistics), Masters degrees in [Data Science](https://cse.umn.edu/datascience) and [Linguistics](https://cla.umn.edu/linguistics) all from the [University of Minnesota](https://twin-cities.umn.edu/). During that time, I was advised by [Dr. Brian Reese](https://cla.umn.edu/about/directory/profile/breese), [Dr. Lana Yarosh](https://lanayarosh.com/), [Dr. Maria Gini](https://www-users.cse.umn.edu/~gini/), and worked with [Dr. Dongyeop Kang](https://dykang.github.io/).  
+Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/statistics), Masters degrees in [Data Science](https://cse.umn.edu/datascience) and [Linguistics](https://cla.umn.edu/linguistics) all from the [University of Minnesota](https://twin-cities.umn.edu/). During that time, I was advised by [Dr. Lana Yarosh](https://lanayarosh.com/) and [Dr. Dongyeop Kang](https://dykang.github.io/).  
 
 
 
 
 Updates
 ======
-* **March 2023:** My position paper [*Control and Resistance: The dinamic interplay of Censorship and Circumvention*](http://ruyuanwan.github.io/files/Control_and_Resistance__Dynamic_Interplay_of_Censorship_and_Circumvention.pdf) has been accepted at [CHI 2023 workshop on Combating Toxicity, Harassment, and Abuse in Online Social Spaces](https://combatingonlinetoxicity.sites.uu.nl).
-* **Feb. 2023:** I am grateful to receive Nanovic Institute Grant for my research! Thanks!<br/>
-* **Dec. 2022:** I am thrilled to receive AAAI-23 student scholarship, Notebaert Professional Development Fund and GSG Conference Presentation Grant! Thanks!<br/>
+* **Sep. 2023:** 🌟 Organized my first research workshop on Community-Driven AI at CSCW 2023! 
 * **Nov. 2022:** 🎉 My first conference paper [*Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information*](https://arxiv.org/pdf/2301.05036v1.pdf) has been accepted for oral presentation at AAAI 2023 (oral acceptance rate of 10%). <br/>
 * **Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) has been accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
-* **Aug. 2022:** Started my Ph.D. journey at the University of Notre Dame! <br/>
-* **Jul. 2022:** Selected as student volunteer for NAACL 2022! I served on two workshops: the workshop on online abuse and harms, and the international workshop on emoji understanding and applications in social media.  
-* **Jun. 2022:** Research Internship at the Minnesota NLP lab, working on subjective annotation disagreement. <br/>
-* **May 2022:** Defended my M.A. Linguistics thesis "Riddikulus: Detection of Persuasion Techniques in Memes"!  <br/>
-[//]: # * **Oct. 2021:** I started my research internship at Samsung Research America, working on coreference resolution in dialogue.  <br/>
 * **Oct. 2020:** 🥇 My poster [*How much is a like worth? Engagement and Retention in an Online Health Community*](https://dl.acm.org/doi/abs/10.1145/3406865.3418320) was awarded a recognition for Outstanding Poster at the CSCW 2020!  <br/>
