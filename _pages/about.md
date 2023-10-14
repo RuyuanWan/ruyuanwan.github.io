@@ -27,41 +27,10 @@ Before my Ph.D., I obtained my Bachelor in [Statistics](https://cla.umn.edu/stat
 
 Highlights
 ======
-<figure>
-  <figcaption> 🌟 Organized my first research workshop on [*Community-Driven AI*](https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0) at CSCW 2023! </figcaption>
-  <img src="/images/Community_AI.png" style="width:50%" class="center"/>
-</figure>
-<figure>
-  <img src="/images/Disagreement.png" style="width:50%" class="center"/>
-</figure>
-<figure>
-  <img src="/images/user_labor.png" style="width:50%" class="center"/>
-</figure>
-<figure>
-  <img src="/images/CaringBridge.png" style="width:50%" class="center"/>
-</figure> 
-
-<div style="width:100%; max-width:800px; margin-right:auto; margin-left:auto;">
-  
-  <br/>
-  <table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin-right:auto; margin-left:auto;">
-    <tr>
-      <td><img width="100" height="100" src="/images/Community_AI.png"></td>
-      <td>
-        <div ">
-          <strong>Sep. 2023:</strong> 🌟 Organized my first research workshop on 
-          <a href="https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0">Community-Driven AI</a> at CSCW 2023!
-        </div>
-      </td>
-    </tr>
-    <!-- ... Repeat for other highlights ... -->
-  </table>
-</div>
 
 * **Oct. 2023:** 🌟 Organized my first research workshop on [*Community-Driven AI*](https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0) at CSCW 2023!
 
 * **Nov. 2022:** 🎉 My first conference paper [*Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information*](https://arxiv.org/pdf/2301.05036v1.pdf) has been accepted for oral presentation at AAAI 2023 (oral acceptance rate of 10%). <br/>
-
 
 * **Oct. 2022:** 🎉 My first paper [*User or Labor: An Interaction Framework in NLP*](https://arxiv.org/abs/2211.01553) has been accepted at the Workshop on Data Science with Human in the Loop at the EMNLP 2022!<br/>
 
