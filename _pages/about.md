@@ -32,7 +32,7 @@ Highlights
   <br/>
   <table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin-right:auto; margin-left:auto;">
     <tr>
-      <td><img width="100" height="100" src="/images/Community_AI.png"></td>
+      <td><img width="50" height="50" src="/images/Community_AI.png"></td>
       <td>
         <div style="margin-left: 2em;">
           <strong>Sep. 2023:</strong> 🌟 Organized my first research workshop on 
