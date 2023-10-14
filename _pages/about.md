@@ -42,13 +42,13 @@ Highlights
 </figure> 
 
 <div style="width:100%; max-width:800px; margin-right:auto; margin-left:auto;">
-  <heading style="margin-bottom: 30px;">Highlights</heading>
+  
   <br/>
   <table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin-right:auto; margin-left:auto;">
     <tr>
-      <td><img width="20" height="20" src="/images/Community_AI.png"></td>
+      <td><img width="100" height="100" src="/images/Community_AI.png"></td>
       <td>
-        <div style="margin-left: 2em;">
+        <div ">
           <strong>Sep. 2023:</strong> 🌟 Organized my first research workshop on 
           <a href="https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0">Community-Driven AI</a> at CSCW 2023!
         </div>
