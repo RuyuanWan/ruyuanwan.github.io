@@ -13,7 +13,7 @@ Hello! 👋<br/>
 
 I am a Ph.D. student in [Computer Science at the University of Notre Dame](https://cse.nd.edu/).<br/>
 
-My research interests lie at the intersection of Human-Computer Interaction (HCI), Natural Language Processing (NLP), and Social Computing.
+My research interests lie at the intersection of <b>Human-Computer Interaction (HCI)<b>, <b>Natural Language Processing (NLP)<b>, and <b>Social Computing<b>.
 
 Language as the medium of communication, communication as the social bridge among people, standing at the crossroads of HCI, NLP and Social Computing, I am driven to explore the intricacies and nuances of communication dynamics in the evolving digital landscape. For my research journey, I am passionate to decode how human-human or human-AI communicate, collaborate and sometimes conflict, and how these patterns can be harnessed to address pressing societal challenges. 
 
