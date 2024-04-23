@@ -35,4 +35,9 @@ Here are some fun activities that I did and would like to share with you:
   <img src="/images/Scuba_Diving.JPG" style="width:50%" class="center"/>
 </figure>
 
+<figure>
+  <figcaption> Fig.6 - 🐎 Equine Therapy Volunteer at South Bend, IN </figcaption>
+  <img src="/images/horse.png" style="width:50%" class="center"/>
+</figure>
+
 
