@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! 👋<br/>
 
-I am a Ph.D. student in [Computer Science at the University of Notre Dame](https://cse.nd.edu/).<br/>
+<!--I am a Ph.D. student in [Computer Science at the University of Notre Dame](https://cse.nd.edu/).<br/>-->
 
 My research lies at the intersection of <b>Human-Computer Interaction (HCI)</b>, <b>Natural Language Processing (NLP)</b>, and <b>Social Computing</b>.
 
