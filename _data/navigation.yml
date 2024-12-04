@@ -10,8 +10,8 @@ main:
     url: /miscellaneous/
 
 
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
 #  - title: "Talks"
 #    url: /talks/    
