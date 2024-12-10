@@ -21,9 +21,6 @@ My research lies at the intersection of <b>Human-Computer Interaction (HCI)</b>,
 
 Highlights
 ======
-* **May. 2024:** Presented [*Leveraging the Strengths of Qualitative Analysis to Improve Data Annotation*](https://ruyuanwan.github.io/files/Leveraging_the_Strengths_of_Qualitative_Analysis_to_Improve_Data_Annotation.pdf) at the [*LLMs as Research Tools workshop*](https://sites.google.com/view/llmsindatawork/home?authuser=0) at CHI 2024!   
-
-* **Dec. 2023:** 👭🏻 Presented [*Digital and Historical Exclusivity in Feminine Linguistics: From Nüshu to Xiaohongshu*](https://ruyuanwan.github.io/files/WiNLP.pdf) at the [*WiNLP workshop*](https://www.winlp.org) at EMNLP!   
 
 * **Oct. 2023:** 🌟 Organized my first research workshop on [*Community-Driven AI*](https://sites.google.com/nd.edu/community-ai-cscw-2023/home?authuser=0) at CSCW 2023!
 
