@@ -1,6 +1,6 @@
-# April's Website
+# Ruyuan's Website
 
-This is April's personal website created by [pugjs](https://pugjs.org/api/getting-started.html).
+This is Ruyuan's personal website created by [pugjs](https://pugjs.org/api/getting-started.html).
 
 ## Getting Started
 
