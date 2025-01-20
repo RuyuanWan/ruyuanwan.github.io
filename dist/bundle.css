@@ -280,7 +280,7 @@ header {
 
 .attending-date {
   display: inline;
-  background-color: rgba(225, 160, 160, 0.2509803922);
+  background-color: rgba(228, 235, 222, 0.8862745098);
   padding: 3px 5px;
   border-radius: 5px;
   margin-right: 5px;
@@ -308,7 +308,7 @@ header {
 
 .all {
   float: right;
-  background-color: rgba(225, 160, 160, 0.2509803922);
+  background-color: rgba(228, 235, 222, 0.8862745098);
   font-weight: normal;
   padding: 0px 10px;
   border-radius: 6px;
@@ -542,15 +542,15 @@ img[alt=zurich] {
   margin-right: 5px;
   padding: 5px 8px;
   border-radius: 5px;
-  color: #d16d6d;
+  color: #798d5b;
   font-weight: 400;
-  border: 1px #d16d6d solid;
+  border: 1px #798d5b solid;
   margin-top: 10px;
 }
 
 .example-project-content > iframe {
   width: 100%;
-  border: 1px #d16d6d solid;
+  border: 1px #798d5b solid;
   border-radius: 5px;
   margin-top: 10px;
   height: 800px;
@@ -562,7 +562,7 @@ img[alt=zurich] {
 }
 
 .all-pubs > .paper-right > a {
-  border: 1px solid #d16d6d;
+  border: 1px solid #798d5b;
   border-radius: 5px;
   padding: 10px;
 }
@@ -657,7 +657,7 @@ img[alt=zurich] {
   height: 25px;
   text-align: center;
   padding: 5px;
-  background: rgba(225, 160, 160, 0.2509803922);
+  background: rgba(228, 235, 222, 0.8862745098);
 }
 
 html {
@@ -696,12 +696,12 @@ section {
 
 a {
   text-decoration: none;
-  color: #d16d6d;
+  color: #798d5b;
   font-weight: 400;
 }
 
 a:hover {
-  color: #bd5b5b;
+  color: #d9c0c4;
 }
 
 a:visited {
