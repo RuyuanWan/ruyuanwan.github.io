@@ -68,7 +68,7 @@
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2022)",
           "links": "<a href='https://arxiv.org/pdf/2301.05036' class='paper-link' target='_blank'>Paper</a>",
           "abstract": "Extracted disagreement labels from five subjective datasets, then fine-tune language models to predict annotators’ disagreement and proposes an innovative disagreement prediction mechanism for better design of the annotation process that will achieve more accurate and inclusive results for NLP systems.",
-          "teaser": "./assets/teaser/AAAI23.pdf",
+          "teaser": "./assets/teaser/AAAI23.png",
           "is_journal": false,
           "is_featured": true
         }
