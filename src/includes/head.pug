@@ -1,0 +1,37 @@
+.container
+    //- .toolbox
+    //-     <div id="theme-btn" class="far fa-moon"></div>
+    .header_photo
+        .info
+            #avadiv
+                img(src=data.bio.avatar, id="avatar")
+    .header_title
+        p.name #{data.bio.name}
+        span.cname #{data.bio.cname}
+        p.edu #{data.bio.education} 
+        p.edu #{data.bio.affiliation}
+        .icons
+            a(href='mailto:rjw6289@psu.edu')
+                <i class="fa fa-envelope"></i>
+            a(target="_blank" href='https://x.com/Ruyuan_Wan')
+                <i class="fab fa-twitter"></i>
+            a(target="_blank" href='https://www.linkedin.com/in/ruyuan-wan-07804b139/')
+                <i class="fab fa-linkedin"></i>
+            a(target="_blank" href='https://scholar.google.com/citations?user=yZ0xu5IAAAAJ&hl=en')
+                <i class="fa fa-graduation-cap"></i>
+        .header_menu
+            ul.nav
+                li#nav1
+                    a(href='#/home') Home
+                //- li#nav3
+                //-     a(href='#/publication') Publications
+                //- li#nav2
+                    a(href='#/peach') Team
+                //- li#nav3
+                    a(href='#/join') Join Us
+                li#nav4
+                    a(href='/assets/RuyuanWan_CV.pdf', target="_blank") CV
+                //- li#nav5
+                    a(href='#/teaching') Teaching
+                //- li#nav3
+                //-     a(href='#publications') Publications
