@@ -42,14 +42,14 @@
           "title": "Hashtag Re-appropriation For Audience Control on Recommendation-driven Social Media Xiaohongshu",
           "authors": "<strong>Ruyuan Wan*</strong>, Lingbo Tong*, Tiffany Knearem, Toby Jia-Jun Li, Ting-Hao Kenneth Huang, and Qunfang Wu",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2025)",
-          "links": "<a href='./assets/pubs/CHI23_Colaroid.pdf' class='pdf-link' target='_blank'>PDF</a>",
-          "abstract": "Our study explores how women on Xiaohongshu, a recommendation-driven social platform, proactively re-appropriate hashtags (e.g., 宝宝辅食(Baby Supplemental Food) by using them in posts unrelated to their literal meaning. The hashtags were strategically chosen from topics that would be uninteresting to the male audience they wanted to block. Through a mixed-methods approach, we analyzed the practice of hashtag re-appropriation based on 5,800 collected posts and interviewed 24 active users from diverse backgrounds to uncover users' motivations and reactions towards the re-appropriation. This practice highlights how users can reclaim agency over content distribution on recommendation-driven platforms, offering insights into self-governance within algorithmic-centered power structures.",
+          "links": "<a href='https://ruyuanwan.github.io/' class='pdf-link' target='_blank'>PDF</a>",
+          "abstract": "Our study explores how women on Xiaohongshu, a recommendation-driven social platform, proactively re-appropriate hashtags (e.g., 宝宝辅食(Baby Supplemental Food) by using them in posts unrelated to their literal meaning. The hashtags were strategically chosen from topics that would be uninteresting to the male audience they wanted to block. Through a mixed-methods approach, we analyzed the practice of hashtag re-appropriation based on 5,800 collected posts and interviewed 24 active users from diverse backgrounds to uncover users' motivations and reactions towards the re-appropriation.",
           "teaser": "./assets/teaser/XiaohongshuLOGO.png",
           "is_journal": false,
           "is_featured": true
         },
         {
-          "venue": "EMNLP 2024",
+          "venue": "EMNLP 2024 (Oral)",
           "id": "EMNLP2024",
           "title": "CoCoLoFa: A Dataset of News Comments with Common Logical FallaciesWritten by LLM-Assisted Crowds",
           "authors": "Min-Hsuan Yeh, <strong>Ruyuan Wan</strong>, and Ting-Hao Kenneth Huang",
@@ -61,14 +61,50 @@
           "is_featured": false
         },
         {
-          "venue": "AAAI 2023",
+          "venue": "C&C 2024 Poster",
+          "id": "CC2024",
+          "title": "CoCoMatrix: Taxonomy of Cognitive Contributions in Co-writing with Intelligent Agents",
+          "authors": "<strong>Ruyuan Wan</strong>, Simret Gebreegziabher, Toby Jia-Jun Li, and Karla Badillo-Urquiola",
+          "venue_full": "In Proceedings of the 16th Conference on Creativity&Cognition (C&C 2024)",
+          "links": "<a href='https://arxiv.org/pdf/2405.12438' class='paper-link' target='_blank'>Paper</a>",
+          "abstract": "Our research explores human-agent collaboration in writing, emphasizing the often-overlooked creative process rather than just the final product. We adapt Flower and Hayes' cognitive process theory to propose the CoCo Matrix, a taxonomy combining entropy and information gain to classify co-writing systems.",
+          "teaser": "./assets/teaser/CoCo.jpg",
+          "is_journal": false,
+          "is_featured": false
+        },
+        {
+          "venue": "AAAI 2023 (Oral)",
           "id": "AAAI2023",
           "title": "Everyone’s VoiceMatters: Quantifying Annotation Disagreement Using Demographic Information",
-          "authors": "<strong>Ruyuan Wan</strong>, Jaehyung Kim, and Dongyeop Kang.",
+          "authors": "<strong>Ruyuan Wan</strong>, Jaehyung Kim, and Dongyeop Kang",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2022)",
           "links": "<a href='https://arxiv.org/pdf/2301.05036' class='paper-link' target='_blank'>Paper</a>",
           "abstract": "Extracted disagreement labels from five subjective datasets, then fine-tune language models to predict annotators’ disagreement and proposes an innovative disagreement prediction mechanism for better design of the annotation process that will achieve more accurate and inclusive results for NLP systems.",
           "teaser": "./assets/teaser/AAAI23.png",
+          "is_journal": false,
+          "is_featured": true
+        },
+        {
+          "venue": "DaSH Workshop at EMNLP 2022",
+          "id": "DASH2022",
+          "title": "User or Labor: An Interaction Framework for Human-Machine Relationships in NLP",
+          "authors": "<strong>Ruyuan Wan</strong>, Naome Etori, Karla Badillo-Urquiola, and Dongyeop Kang",
+          "venue_full": "In Proceedings of the Fourth Workshop on Data Science with Human-in-the-Loop (Language Advances)",
+          "links": "<a href='https://aclanthology.org/2022.dash-1.14.pdf' class='paper-link' target='_blank'>Paper</a>",
+          "abstract": "Through a systematic literature review and thematic analysis, an interaction framework for understanding human-machine relationships in NLP is presented and shows that the type of interaction is not fixed but can change across tasks as the relationship between the human and the machine develops.",
+          "teaser": "./assets/teaser/dash.jpg",
+          "is_journal": false,
+          "is_featured": true
+        },
+        {
+          "venue": "CSCW 2020 Outstanding Poster <i class='fas fa-award'></i> ",
+          "id": "CSCW2020",
+          "title": "How much is a 'like' worth? Engagement and Retention in an Online Health Community",
+          "authors": "<strong>Ruyuan Wan</strong>, Zachary Levonian, and Svetlana Yarosh",
+          "venue_full": "In Companion Publication of the 2020 Conference on Computer Supported CooperativeWork and Social Computing (CSCW2020)",
+          "links": "<a href='https://dl.acm.org/doi/10.1145/3406865.3418320' class='paper-link' target='_blank'>Paper</a>",
+          "abstract": "This study examines the relationship between short-term visitor engagement and long-term user retention in online health communities, focusing on CaringBridge.org. Using survival analysis, we find that 'likes' can have a greater impact on retention than text comments for some users, challenging assumptions about engagement types. Additionally, less active users are more influenced by visitor engagement than highly active users.",
+          "teaser": "./assets/teaser/caringbridge.png",
           "is_journal": false,
           "is_featured": true
         }
@@ -84,14 +120,6 @@
           "venue_full": "In Proceedings of 30th International Joint Conferences on Artificial Intelligence (IJCAI 2021). Demo Paper",
           "links": "<a href='https://www.ijcai.org/proceedings/2021/0717.pdf' class='paper-link' target='_blank'>Link</a>",
           "teaser": "./assets/teaser/chi22.png"
-        },
-        {
-          "venue": "CHI 2021",
-          "authors": "<strong>April Yi Wang </strong>, Dakuo Wang, Jaimie Drozdal, Xuye Liu, Soya Park, Steve Oney and Christopher Brooks",
-          "venue_full": "In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI 2021 Extended Abstracts).",
-          "title": "What Makes a Well-Documented Notebook? A Case Study of Data Scientists’ Documentation Practices in Kaggle",
-          "links": "<a href='./assets/pubs/CHILBW21_KaggleNotebooks.pdf' class='paper-link' target='_blank'>PDF</a> <a href='./assets/pubs/CHILBW21_KaggleNotebooks_Poster.pdf' class='paper-link' target='_blank'>Poster</a>",
-          "teaser": "./assets/teaser/chi22.png"
         }
       ]
     },
@@ -102,12 +130,7 @@
                 "title": "Understanding and Lowering the Learning Barriers for Conversational Programmers",
                 "venue_full": "SFU M.Sc Thesis, Burnaby, Canada",
                 "authors": "<strong>April Yi Wang</strong>"
-            },
-            {
-              "title": "Interactive Programming Interfaces for Data Science Collaboration and Learning",
-              "venue_full": "Umich Ph.D. Thesis, Ann Arbor, MI",
-              "authors": "<strong>April Yi Wang</strong>"
-          }
+            }
         ]
     }
   ],
