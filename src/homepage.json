@@ -73,6 +73,18 @@
           "is_featured": false
         },
         {
+          "venue": "WiNLP 2023 Workshop (non-archival)",
+          "id": "WiNLP2023",
+          "title": "Digital and Historical Exclusivity in Feminine Linguistics: From Nüshu to Xiaohongshu",
+          "authors": "<strong>Ruyuan Wan</strong> and Lingbo Tong",
+          "venue_full": "The Seventh Widening NLP workshop at EMNLP 2023",
+          "links": "<a href='./assets/pubs/WiNLP.pdf' class='pdf-link' target='_blank'>PDF</a>",
+          "abstract": " ",
+          "teaser": "./assets/teaser/nvshu.png",
+          "is_journal": false,
+          "is_featured": true
+        },
+        {
           "venue": "AAAI 2023 (Oral)",
           "id": "AAAI2023",
           "title": "Everyone’s VoiceMatters: Quantifying Annotation Disagreement Using Demographic Information",
