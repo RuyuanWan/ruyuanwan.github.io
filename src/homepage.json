@@ -39,11 +39,11 @@
         {
           "venue": "CHI 2025",
           "id": "CHI2025",
-          "title": "Hashtag Re-appropriation For Audience Control on Recommendation-driven Social Media Xiaohongshu",
+          "title": "Hashtag Re-Appropriation For Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)",
           "authors": "<strong>Ruyuan Wan*</strong>, Lingbo Tong*, Tiffany Knearem, Toby Jia-Jun Li, Ting-Hao Kenneth Huang, and Qunfang Wu",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2025)",
           "links": "<a href='https://ruyuanwan.github.io/' class='pdf-link' target='_blank'>PDF</a>",
-          "abstract": "Our study explores how women on Xiaohongshu, a recommendation-driven social platform, proactively re-appropriate hashtags (e.g., 宝宝辅食(Baby Supplemental Food) by using them in posts unrelated to their literal meaning. The hashtags were strategically chosen from topics that would be uninteresting to the male audience they wanted to block. Through a mixed-methods approach, we analyzed the practice of hashtag re-appropriation based on 5,800 collected posts and interviewed 24 active users from diverse backgrounds to uncover users' motivations and reactions towards the re-appropriation.",
+          "abstract": "Our study explores how women on Xiaohongshu, a recommendation-driven social platform, proactively re-appropriate hashtags (e.g., 宝宝辅食(Baby Supplemental Food)) by using them in posts unrelated to their literal meaning. The hashtags were strategically chosen from topics that would be uninteresting to the male audience they wanted to block. Through a mixed-methods approach, we analyzed the practice of hashtag re-appropriation based on 5,800 collected posts and interviewed 24 active users from diverse backgrounds to uncover users' motivations and reactions towards the re-appropriation.",
           "teaser": "./assets/teaser/XiaohongshuLOGO.png",
           "is_journal": false,
           "is_featured": true
@@ -51,7 +51,7 @@
         {
           "venue": "EMNLP 2024 (Oral)",
           "id": "EMNLP2024",
-          "title": "CoCoLoFa: A Dataset of News Comments with Common Logical FallaciesWritten by LLM-Assisted Crowds",
+          "title": "CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds",
           "authors": "Min-Hsuan Yeh, <strong>Ruyuan Wan</strong>, and Ting-Hao Kenneth Huang",
           "venue_full": "In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
           "links": "<a href='https://aclanthology.org/2024.emnlp-main.39/' class='paper-link' target='_blank'>Paper</a>",
@@ -63,8 +63,8 @@
         {
           "venue": "C&C 2024 Poster",
           "id": "CC2024",
-          "title": "CoCoMatrix: Taxonomy of Cognitive Contributions in Co-writing with Intelligent Agents",
-          "authors": "<strong>Ruyuan Wan</strong>, Simret Gebreegziabher, Toby Jia-Jun Li, and Karla Badillo-Urquiola",
+          "title": "CoCo Matrix: Taxonomy of Cognitive Contributions in Co-writing with Intelligent Agents",
+          "authors": "<strong>Ruyuan Wan*</strong>, Simret Gebreegziabher*, Toby Jia-Jun Li, and Karla Badillo-Urquiola",
           "venue_full": "In Proceedings of the 16th Conference on Creativity&Cognition (C&C 2024)",
           "links": "<a href='https://arxiv.org/pdf/2405.12438' class='paper-link' target='_blank'>Paper</a>",
           "abstract": "Our research explores human-agent collaboration in writing, emphasizing the often-overlooked creative process rather than just the final product. We adapt Flower and Hayes' cognitive process theory to propose the CoCo Matrix, a taxonomy combining entropy and information gain to classify co-writing systems.",
@@ -87,7 +87,7 @@
         {
           "venue": "AAAI 2023 (Oral)",
           "id": "AAAI2023",
-          "title": "Everyone’s VoiceMatters: Quantifying Annotation Disagreement Using Demographic Information",
+          "title": "Everyone’s Voice Matters: Quantifying Annotation Disagreement Using Demographic Information",
           "authors": "<strong>Ruyuan Wan</strong>, Jaehyung Kim, and Dongyeop Kang",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2022)",
           "links": "<a href='https://arxiv.org/pdf/2301.05036' class='paper-link' target='_blank'>Paper</a>",
