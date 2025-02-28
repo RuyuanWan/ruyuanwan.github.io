@@ -40,5 +40,9 @@ setTimeout(function(){
     loadSection('.teaching')
   })
 
+  R.route('/misc', function(id){
+    loadSection('.misc')
+  })
+
 }, 500)
 

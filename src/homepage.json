@@ -73,6 +73,18 @@
           "is_featured": false
         },
         {
+          "venue": "CHI 2024 Workshop on LLMs as Research Tools (non-archival)",
+          "id": "LART2024",
+          "title": "Leveraging the Strengths of Qualitative Analysis to Improve Data Annotation",
+          "authors": "<strong>Ruyuan Wan*</strong> and Jie Gao",
+          "venue_full": "CHI 2024 Workshop on LLMs as Research Tools",
+          "links": "<a href='./assets/pubs/QA4DA.pdf' class='paper-link' target='_blank'>Paper</a>",
+          "abstract": "We propose leveraging Qualitative Data Analysis’s strengths—managing disagreement, iterative refinement of labels, and depth of insight—into Data Annotation processes.",
+          "teaser": "./assets/teaser/QDA_Annotation.pdf",
+          "is_journal": false,
+          "is_featured": false
+        },
+        {
           "venue": "WiNLP 2023 Workshop (non-archival)",
           "id": "WiNLP2023",
           "title": "Digital and Historical Exclusivity in Feminine Linguistics: From Nüshu to Xiaohongshu",
@@ -147,6 +159,11 @@
     }
   ],
   "attending": [
+    {
+      "date": "July 27-August 1, 2025",
+      "event": "ACL 2025, Vienna, Austria",
+      "ispast": false
+    },
     {
       "date": "April 26-May 1, 2025",
       "event": "CHI 2025, Yokohama, Japan",
