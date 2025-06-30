@@ -6,7 +6,7 @@
   "menu": ["ABOUT", "PROJECT", "MORE", "CONTACT"],
   "bio": {
     "name": "Ruyuan Wan",
-    "cname": "万如苑",
+    "cname": "",
     "education": "Ph.D. student",
     "affiliation": "Pennsylvania State University",
     "location": "TBD",
@@ -167,7 +167,7 @@
     {
       "date": "April 26-May 1, 2025",
       "event": "CHI 2025, Yokohama, Japan",
-      "ispast": false
+      "ispast": true
     },
     {
       "date": "Dec 10-15, 2024",
@@ -191,6 +191,10 @@
     }
   ],
   "news": [
+    {
+      "date": "7/2025",
+      "news": "I will co-organzie the <a href='https://sites.google.com/view/nlp4positiveimpact'>4th Workshop on NLP for Positive Impact</a> at ACL 2025."
+    },
     {
       "date": "01/2025",
       "news": "My first first-authored CHI paper got accepted!"
