@@ -162,7 +162,7 @@
     {
       "date": "July 27-August 1, 2025",
       "event": "ACL 2025, Vienna, Austria",
-      "ispast": false
+      "ispast": true
     },
     {
       "date": "April 26-May 1, 2025",
@@ -191,6 +191,10 @@
     }
   ],
   "news": [
+    {
+      "date": "8/2025",
+      "news": "I will give an invited talk at Microsoft on User Agency and Creative Adaptation on Algorithm-Driven Platforms"
+    },
     {
       "date": "7/2025",
       "news": "I will co-organzie the <a href='https://sites.google.com/view/nlp4positiveimpact'>4th Workshop on NLP for Positive Impact</a> at ACL 2025."
