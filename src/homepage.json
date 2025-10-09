@@ -37,6 +37,18 @@
       "category": "Peer Reviewed Conference Papers",
       "item": [
         {
+          "venue": "HCI + NLP Workshop at EMNLP 2025",
+          "id": "EMNLP2025",
+          "title": "From Noise to Nuance: Enriching Subjective Data Annotation through Qualitative Analysis",
+          "authors": "<strong>Ruyuan Wan*</strong>, Haonan Wang, Ting-Hao 'Kenneth' Huang, and Jie Gao",
+          "venue_full": "In Proceedings of the Proceedings of the Fourth Workshop on Bridging Human-Computer Interaction and Natural Language Processing (CHI 2025)",
+          "links": "<a href='./assets/pubs/From_Noise_to_Nuance_Enrich.pdf' class='pdf-link' target='_blank'>PDF</a>",
+          "abstract": "Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.",
+          "teaser": "./assets/teaser/QA4DA.pdf",
+          "is_journal": false,
+          "is_featured": true
+        },
+        {
           "venue": "CHI 2025 Best Paper Honorable Mention Award <i class='fas fa-award'></i>",
           "id": "CHI2025",
           "title": "Hashtag Re-Appropriation For Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)",
@@ -44,7 +56,7 @@
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2025)",
           "links": "<a href='https://arxiv.org/pdf/2501.18210' class='pdf-link' target='_blank'>PDF</a>",
           "abstract": "Our study explores how women on Xiaohongshu, a recommendation-driven social platform, proactively re-appropriate hashtags (e.g., 宝宝辅食(Baby Supplemental Food)) by using them in posts unrelated to their literal meaning. The hashtags were strategically chosen from topics that would be uninteresting to the male audience they wanted to block. Through a mixed-methods approach, we analyzed the practice of hashtag re-appropriation based on 5,800 collected posts and interviewed 24 active users from diverse backgrounds to uncover users' motivations and reactions towards the re-appropriation.",
-          "teaser": "./assets/teaser/XiaohongshuLOGO.png",
+          "teaser": "./assets/teaser/evolve_new.pdf",
           "is_journal": false,
           "is_featured": true
         },
