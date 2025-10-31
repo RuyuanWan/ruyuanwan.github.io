@@ -172,9 +172,14 @@
   ],
   "attending": [
     {
+      "date": "Nov 05-06, 2025",
+      "event": "GHC 2025, Chicago, U.S.",
+      "ispast": false
+    },  
+    {
       "date": "Oct 06-11, 2025",
       "event": "COLM 2025, Montreal, Canada",
-      "ispast": false
+      "ispast": true
     },    
     {
       "date": "July 27-August 1, 2025",
@@ -193,21 +198,25 @@
     },
     {
       "date": "Nov 12-16, 2024",
-      "event": "EMNLP 2024, Miami, US",
+      "event": "EMNLP 2024, Miami, U.S.",
       "ispast": true
     },
     {
       "date": "Oct 13-16, 2024",
-      "event": "UIST&HCOMP 2024, Pittsburgh, US",
+      "event": "UIST&HCOMP 2024, Pittsburgh, U.S.",
       "ispast": true
     },
     {
       "date": "May 11-16, 2024",
-      "event": "CHI'24🏄, Honolulu, US",
+      "event": "CHI'24🏄, Honolulu, U.S.",
       "ispast": true
     }
   ],
   "news": [
+    {
+      "date": "11/2025",
+      "news": "I will give a talk at the University of Chicago on Creative Communication under Constraints."
+    },
     {
       "date": "8/2025",
       "news": "Give an invited talk at <a href='https://microsoftnewengland.com/maidap/'>Microsoft</a> on User Agency and Creative Adaptation on Algorithm-Driven Platforms."
