@@ -42,7 +42,7 @@
           "title": "From Noise to Nuance: Enriching Subjective Data Annotation through Qualitative Analysis",
           "authors": "<strong>Ruyuan Wan*</strong>, Haonan Wang, Ting-Hao 'Kenneth' Huang, and Jie Gao",
           "venue_full": "In Proceedings of the Proceedings of the Fourth Workshop on Bridging Human-Computer Interaction and Natural Language Processing (CHI 2025)",
-          "links": "<a href='./assets/pubs/From_Noise_to_Nuance_Enrich.pdf' class='pdf-link' target='_blank'>PDF</a>",
+          "links": "<a href='https://aclanthology.org/anthology-files/pdf/hcinlp/2025.hcinlp-1.20.pdf' class='paper-link' target='_blank'>Paper</a> <a href='./assets/pubs/From_Noise_to_Nuance_Enrich.pdf' class='pdf-link' target='_blank'>PDF</a>",
           "abstract": "Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.",
           "teaser": "./assets/teaser/QA4DA.pdf",
           "is_journal": false,
@@ -81,18 +81,6 @@
           "links": "<a href='https://arxiv.org/pdf/2405.12438' class='paper-link' target='_blank'>Paper</a>",
           "abstract": "Our research explores human-agent collaboration in writing, emphasizing the often-overlooked creative process rather than just the final product. We adapt Flower and Hayes' cognitive process theory to propose the CoCo Matrix, a taxonomy combining entropy and information gain to classify co-writing systems.",
           "teaser": "./assets/teaser/CoCo.jpg",
-          "is_journal": false,
-          "is_featured": false
-        },
-        {
-          "venue": "CHI 2024 Workshop on LLMs as Research Tools (non-archival)",
-          "id": "LART2024",
-          "title": "Leveraging the Strengths of Qualitative Analysis to Improve Data Annotation",
-          "authors": "<strong>Ruyuan Wan*</strong> and Jie Gao",
-          "venue_full": "CHI 2024 Workshop on LLMs as Research Tools",
-          "links": "<a href='./assets/pubs/QA4DA.pdf' class='paper-link' target='_blank'>Paper</a>",
-          "abstract": "We propose leveraging Qualitative Data Analysis’s strengths—managing disagreement, iterative refinement of labels, and depth of insight—into Data Annotation processes.",
-          "teaser": "./assets/teaser/QDA_Annotation.pdf",
           "is_journal": false,
           "is_featured": false
         },
