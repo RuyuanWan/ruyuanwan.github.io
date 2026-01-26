@@ -319,17 +319,17 @@ header {
 
 .label2 {
 	position: absolute;
-	top: 213px;
-	left: 70px;
-	transform: rotate(60deg);
+	top: 200px;
+	left: 100px;
+	transform: rotate(0deg);
 	color: #EAC983;
 }
 
 .label3 {
 	position: absolute;
-	top: 220px;
+	top: 200px;
 	left: 260px;
-	transform: rotate(-60deg);
+	transform: rotate(-0deg);
 	color: #AACFDA
 }
 
@@ -344,12 +344,12 @@ header {
     left: -20px;
 }
 .ce {
-	top: 60px;
+	top: 30px;
 	left: 380px;
 }
 .pe {
-	top: 280px;
-	left: 220px;
+	top: 270px;
+	left: 170px;
 }
 .venn-pub-list > ul > li {
 	text-decoration: none;
@@ -366,16 +366,18 @@ header {
 
 .Venn {
 	position: absolute;
-	left:200px;
+	left:150px;
 }
 
 .VennDiagram{
   position: relative;
-  left: -30px;
+  left: 0;
 }
 
 .venn-container {
+  position: relative;
   height: 320px;
+  width: 760px;
 }
 
 .edu {

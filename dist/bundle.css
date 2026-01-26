@@ -435,17 +435,17 @@ header {
 
 .label2 {
   position: absolute;
-  top: 213px;
-  left: 70px;
-  transform: rotate(60deg);
+  top: 200px;
+  left: 100px;
+  transform: rotate(0deg);
   color: #EAC983;
 }
 
 .label3 {
   position: absolute;
-  top: 220px;
+  top: 200px;
   left: 260px;
-  transform: rotate(-60deg);
+  transform: rotate(0deg);
   color: #AACFDA;
 }
 
@@ -462,13 +462,13 @@ header {
 }
 
 .ce {
-  top: 60px;
+  top: 30px;
   left: 380px;
 }
 
 .pe {
-  top: 280px;
-  left: 220px;
+  top: 270px;
+  left: 170px;
 }
 
 .venn-pub-list > ul > li {
@@ -487,16 +487,18 @@ header {
 
 .Venn {
   position: absolute;
-  left: 200px;
+  left: 150px;
 }
 
 .VennDiagram {
   position: relative;
-  left: -30px;
+  left: 0;
 }
 
 .venn-container {
+  position: relative;
   height: 320px;
+  width: 760px;
 }
 
 .edu {
@@ -669,7 +671,7 @@ body {
   color: #424242;
   line-height: 25px;
   font-family: -apple-system, system-ui, BlinkMacSystemFont;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 200;
 }
 
@@ -720,14 +722,14 @@ li {
 }
 
 #subtitle {
-  font-size: 20px;
+  font-size: 22px;
   margin: auto;
   color: #a7a7a7;
 }
 
 #enter {
   cursor: pointer;
-  font-size: 20px;
+  font-size: 22px;
   border-bottom: 2px solid black;
   width: 5%;
   margin: auto;
@@ -750,7 +752,7 @@ li {
 #small {
   text-align: center;
   font-family: lato, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   margin: 0;
   padding-top: 5px;
   grid-column: 1/9;
@@ -766,7 +768,7 @@ p {
 }
 
 .title {
-  font-size: 15px;
+  font-size: 17px;
   font-weight: bold;
   color: #7c7c7c;
   margin-bottom: 0px;
