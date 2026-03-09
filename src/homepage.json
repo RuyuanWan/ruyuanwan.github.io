@@ -50,7 +50,7 @@
           "is_featured": true
         },
         {
-          "venue": "CHI 2026",
+          "venue": "CHI 2026 Best Paper Honorable Mention Award <i class='fas fa-award'>",
           "id": "CHI2026",
           "title": "Red Teaming LLMs as Socio-Technical Practice: From Exploration and Data Creation to Evaluation",
           "authors": "Adriana Alvarado Garcia*, <strong>Ruyuan Wan*</strong>, Ozioma Collins Oguine, and Karla Badillo-Urquiola",
@@ -185,6 +185,16 @@
   ],
   "attending": [
     {
+      "date": "Oct 24–29, 2026",
+      "event": "EMNLP 2026, Budapest, Hungary",
+      "ispast": false
+    },
+    {
+      "date": "July 2–7, 2026",
+      "event": "ACL 2026, San Diego, U.S.",
+      "ispast": false
+    },
+    {
       "date": "April 13–17, 2026",
       "event": "CHI 2026, Barcelona, Spain",
       "ispast": false
@@ -231,6 +241,14 @@
     }
   ],
   "news": [
+    {
+      "date": "10/2026",
+      "news": "I am co-organizing the 5th NLP for Positive Impact workshop at EMNLP 2026."
+    },    
+    {
+      "date": "03/2026",
+      "news": "My IBM internship paper got the Best Paper Honorable Mention Award at CHI 2026."
+    },
     {
       "date": "11/2025",
       "news": "Gave a talk at the University of Chicago on Creative Communication under Constraints."
