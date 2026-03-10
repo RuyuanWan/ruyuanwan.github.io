@@ -13,7 +13,7 @@
     "avatar": "./assets/RW_23.JPG",
     "announcement": "",
     "about": "I am a second-year Ph.D. student in <a href='https://ist.psu.edu/'>Information Science and Technology at Pennsylvania State University</a>, working with <a href='https://crowd.ist.psu.edu'>Dr. Ting-hao 'Kenneth' Huang</a>. Prior to starting my Ph.D., I earned Master’s degrees in <a href='https://cse.umn.edu/datascience'>Data Science</a> and <a href='https://cla.umn.edu/linguistics'>Linguistics</a>, as well as a Bachelor's degree in <a href='https://cla.umn.edu/statistics'>Statistics</a> from the <a href='https://twin-cities.umn.edu/'>University of Minnesota</a>. During that time, I was advised by <a href='https://lanayarosh.com/'>Dr. Lana Yarosh</a> and <a href='https://dykang.github.io/'>Dr. Dongyeop Kang</a>.  I also earned a Master degree in <a href='https://cse.nd.edu'>Computer Science</a> at the <a href='https://www.nd.edu'>Univeristy of Notre Dame</a> where I studied in the <a href='https://hci.nd.edu'>ND-HCI lab</a>.",
-    "bio": "My research lies at the intersection of <strong>Human Computer Interaction (HCI)</strong>, <strong>Natural Language Processing (NLP)</strong>, and <strong>Social Computing</strong>. Language, as the medium of communication, serves as the social bridge among people. Standing at the crossroads of HCI, NLP and Social Computing, I am driven to explore the intricacies and nuances of communication dynamics in the evolving digital landscape. In my research journey, I am passionate about decoding how human-human or human-AI interactions unfold—how they communicate, collaborate, and sometimes conflict—and how these patterns can be harnessed to address pressing societal challenges."
+    "bio": "My research lies at the intersection of <strong>Human Computer Interaction (HCI)</strong>, <strong>Natural Language Processing (NLP)</strong>, and <strong>Social Computing</strong>. I study how human communication and AI systems co-evolve under algorithmic and interface constraints in complex social contexts. I develop taxonomies, multilingual datasets, and evaluation frameworks–combining LLM benchmarking with qualitative methods–to improve the robustness, fairness, and safety of real-world human-AI systems."
   },
   "featured_project": [
     {
@@ -50,7 +50,7 @@
           "is_featured": true
         },
         {
-          "venue": "CHI 2026 Best Paper Honorable Mention Award <i class='fas fa-award'></i>",
+          "venue": "CHI 2026, Best Paper Honorable Mention Award, top 5% <i class='fas fa-award'></i>",
           "id": "CHI2026",
           "title": "Red Teaming LLMs as Socio-Technical Practice: From Exploration and Data Creation to Evaluation",
           "authors": "Adriana Alvarado Garcia*, <strong>Ruyuan Wan*</strong>, Ozioma Collins Oguine, and Karla Badillo-Urquiola",
@@ -62,50 +62,26 @@
           "is_featured": true
         },
         {
-          "venue": "HCI + NLP Workshop at EMNLP 2025",
-          "id": "EMNLP2025",
-          "title": "From Noise to Nuance: Enriching Subjective Data Annotation through Qualitative Analysis",
-          "authors": "<strong>Ruyuan Wan</strong>, Haonan Wang, Ting-Hao 'Kenneth' Huang, and Jie Gao",
-          "venue_full": "In Proceedings of the Proceedings of the Fourth Workshop on Bridging Human-Computer Interaction and Natural Language Processing (CHI 2025)",
-          "links": "<a href='https://aclanthology.org/2025.hcinlp-1.20/' class='paper-link' target='_blank'>Paper</a> <a href='./assets/pubs/From_Noise_to_Nuance_Enrich.pdf' class='pdf-link' target='_blank'>PDF</a>",
-          "abstract": "Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.",
-          "teaser": "./assets/teaser/QA4DA.pdf",
-          "is_journal": false,
-          "is_featured": true
-        },
-        {
-          "venue": "CHI 2025 Best Paper Honorable Mention Award <i class='fas fa-award'></i>",
+          "venue": "CHI 2025 Best Paper Honorable Mention Award, top 5% <i class='fas fa-award'></i>",
           "id": "CHI2025",
           "title": "Hashtag Re-Appropriation For Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)",
           "authors": "<strong>Ruyuan Wan*</strong>, Lingbo Tong*, Tiffany Knearem, Toby Jia-Jun Li, Ting-Hao Kenneth Huang, and Qunfang Wu",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2025)",
           "links": "<a href='https://dl.acm.org/doi/pdf/10.1145/3706598.3713379' class='paper-link' target='_blank'>Paper</a> <a href='https://arxiv.org/pdf/2501.18210' class='pdf-link' target='_blank'>PDF</a>",
-          "abstract": "Our study explores how women on Xiaohongshu, a recommendation-driven social platform, proactively re-appropriate hashtags (e.g., 宝宝辅食(Baby Supplemental Food)) by using them in posts unrelated to their literal meaning. The hashtags were strategically chosen from topics that would be uninteresting to the male audience they wanted to block. Through a mixed-methods approach, we analyzed the practice of hashtag re-appropriation based on 5,800 collected posts and interviewed 24 active users from diverse backgrounds to uncover users' motivations and reactions towards the re-appropriation.",
+          "abstract": "",
           "teaser": "./assets/teaser/evolve_new.pdf",
           "is_journal": false,
           "is_featured": true
         },
         {
-          "venue": "EMNLP 2024 (Oral)",
+          "venue": "EMNLP 2024, Oral, 5% acceptance rate",
           "id": "EMNLP2024",
           "title": "CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds",
           "authors": "Min-Hsuan Yeh, <strong>Ruyuan Wan</strong>, and Ting-Hao Kenneth Huang",
           "venue_full": "In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
           "links": "<a href='https://aclanthology.org/2024.emnlp-main.39/' class='paper-link' target='_blank'>Paper</a>",
-          "abstract": "Presented CoCoLoFa, the largest known logical fallacy dataset, containing 7,706 comments for 648 news articles, with each comment labeled for fallacy presence and type is introduced, showing that combining crowdsourcing and LLMs enables us to more effectively construct datasets for complex linguistic phenomena that crowd workers find challenging to produce on their own.",
+          "abstract": "",
           "teaser": "./assets/teaser/cocolofa.png",
-          "is_journal": false,
-          "is_featured": false
-        },
-        {
-          "venue": "C&C 2024 Poster",
-          "id": "CC2024",
-          "title": "CoCo Matrix: Taxonomy of Cognitive Contributions in Co-writing with Intelligent Agents",
-          "authors": "<strong>Ruyuan Wan</strong>, Simret Gebreegziabher, Toby Jia-Jun Li, and Karla Badillo-Urquiola",
-          "venue_full": "In Proceedings of the 16th Conference on Creativity&Cognition (C&C 2024)",
-          "links": "<a href='https://arxiv.org/pdf/2405.12438' class='paper-link' target='_blank'>Paper</a>",
-          "abstract": "Our research explores human-agent collaboration in writing, emphasizing the often-overlooked creative process rather than just the final product. We adapt Flower and Hayes' cognitive process theory to propose the CoCo Matrix, a taxonomy combining entropy and information gain to classify co-writing systems.",
-          "teaser": "./assets/teaser/CoCo.jpg",
           "is_journal": false,
           "is_featured": false
         },
@@ -122,65 +98,30 @@
           "is_featured": true
         },
         {
-          "venue": "AAAI 2023 (Oral)",
+          "venue": "AAAI 2023, Oral, 10% acceptance rate",
           "id": "AAAI2023",
           "title": "Everyone’s Voice Matters: Quantifying Annotation Disagreement Using Demographic Information",
           "authors": "<strong>Ruyuan Wan</strong>, Jaehyung Kim, and Dongyeop Kang",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2022)",
           "links": "<a href='https://arxiv.org/pdf/2301.05036' class='paper-link' target='_blank'>Paper</a>",
-          "abstract": "Extracted disagreement labels from five subjective datasets, then fine-tune language models to predict annotators’ disagreement and proposes an innovative disagreement prediction mechanism for better design of the annotation process that will achieve more accurate and inclusive results for NLP systems.",
+          "abstract": "",
           "teaser": "./assets/teaser/AAAI23.png",
           "is_journal": false,
           "is_featured": true
         },
         {
-          "venue": "DaSH Workshop at EMNLP 2022",
-          "id": "DASH2022",
-          "title": "User or Labor: An Interaction Framework for Human-Machine Relationships in NLP",
-          "authors": "<strong>Ruyuan Wan</strong>, Naome Etori, Karla Badillo-Urquiola, and Dongyeop Kang",
-          "venue_full": "In Proceedings of the Fourth Workshop on Data Science with Human-in-the-Loop (Language Advances)",
-          "links": "<a href='https://aclanthology.org/2022.dash-1.14.pdf' class='paper-link' target='_blank'>Paper</a>",
-          "abstract": "Through a systematic literature review and thematic analysis, an interaction framework for understanding human-machine relationships in NLP is presented and shows that the type of interaction is not fixed but can change across tasks as the relationship between the human and the machine develops.",
-          "teaser": "./assets/teaser/dash.jpg",
-          "is_journal": false,
-          "is_featured": true
-        },
-        {
-          "venue": "CSCW 2020 Outstanding Poster <i class='fas fa-award'></i> ",
+          "venue": "CSCW 2020, Outstanding Poster, top 5% <i class='fas fa-award'></i> ",
           "id": "CSCW2020",
           "title": "How much is a 'like' worth? Engagement and Retention in an Online Health Community",
           "authors": "<strong>Ruyuan Wan</strong>, Zachary Levonian, and Svetlana Yarosh",
           "venue_full": "In Companion Publication of the 2020 Conference on Computer Supported CooperativeWork and Social Computing (CSCW2020)",
           "links": "<a href='https://dl.acm.org/doi/10.1145/3406865.3418320' class='paper-link' target='_blank'>Paper</a>",
-          "abstract": "This study examines the relationship between short-term visitor engagement and long-term user retention in online health communities, focusing on CaringBridge.org. Using survival analysis, we find that 'likes' can have a greater impact on retention than text comments for some users, challenging assumptions about engagement types. Additionally, less active users are more influenced by visitor engagement than highly active users.",
+          "abstract": "",
           "teaser": "./assets/teaser/caringbridge.png",
           "is_journal": false,
           "is_featured": true
         }
       ]
-    },
-    {
-      "category": "Refereed Posters and Workshops",
-      "item": [
-        {
-          "venue": "IJCAI 2021",
-          "title": "Graph-Augmented Code Summarization in Computational Notebooks",
-          "authors": "<strong>April Yi Wang </strong>, Dakuo Wang, Xuye Liu, and Lingfei Wu",
-          "venue_full": "In Proceedings of 30th International Joint Conferences on Artificial Intelligence (IJCAI 2021). Demo Paper",
-          "links": "<a href='https://www.ijcai.org/proceedings/2021/0717.pdf' class='paper-link' target='_blank'>Link</a>",
-          "teaser": "./assets/teaser/chi22.png"
-        }
-      ]
-    },
-    {
-        "category": "Thesis",
-        "item": [
-            {
-                "title": "Understanding and Lowering the Learning Barriers for Conversational Programmers",
-                "venue_full": "SFU M.Sc Thesis, Burnaby, Canada",
-                "authors": "<strong>April Yi Wang</strong>"
-            }
-        ]
     }
   ],
   "attending": [
@@ -280,239 +221,6 @@
     {
       "date": "08/2024",
       "news": "Started my Ph.D. at PSU!"
-    }
-  ],
-  "cv":{
-    "research_interests": "Human-Computer Interaction; Programming Support; Collaborative Data Science",
-    "address": "ETH Zürich / CAB F 15.2<br>Universitätstrasse 6<br>Zürich, 8006",
-    "website": "https://aprilwang.me",
-    "email": "april.wang@inf.ethz.ch",
-    "education": [
-        {
-            "time": "09/2018 – 08/2023",
-            "location": "Ann Arbor, MI",
-            "content": "<strong>University of Michigan</strong> <br>Ph.D. in Information Science (thesis <a href='#t02'>T.02</a> below) <br>Advisors: Steve Oney and Christopher Brooks<br>Committee: Cyrus Omar, Philip Guo, and Steven Drucker"
-        },
-        {
-            "time": "09/2016 – 07/2018",
-            "location": "Burnaby, Canada",
-            "content": "<strong>Simon Fraser University</strong> <br> MSc in Computer Science (thesis <a href='#t01'>T.01</a> below) <br> Advisor: Parmit Chilana <br>Committee: Philip Guo and Lyn Bartram"
-        },
-        {
-            "time": "09/2013 – 07/2016",
-            "location": "Hangzhou, China",
-            "content": "<strong>Zhejiang University</strong><br>B.Eng in the College of Computer Science & Chu Kochen Honors College"
-        }
-    ],
-    "experience": [
-      {
-        "time":"11/2023 – present",
-        "location": "Zürich, Switzerland",
-        "content": "<strong>The Department of Computer Science, ETH Zürich</strong><br>Assistant Professor"
-    },
-      {
-            "time":"09/2018 – 08/2023",
-            "location": "Ann Arbor, MI",
-            "content": "<strong>School of Information, University of Michigan</strong><br>Graduate Student Researcher"
-        },
-        {
-            "time": "05/2021 – 08/2021",
-            "location": "Redmond, WA",
-            "content": "<strong>Microsoft Research</strong><br>Research Summer Intern at the Visualization and Interactive Data Analytics (VIDA) Group<br>Mentors: Steven Drucker and Rob DeLine"
-        },
-        {
-            "time": "05/2020 – 08/2020",
-            "location": "Cambridge, MA",
-            "content": "<strong>IBM Research</strong><br>Research Summer Intern at the AI Experience Group<br>Mentors: Dakuo Wang and Michael Muller"
-        },
-        {
-            "time": "09/2016 – 07/2018",
-            "location": "Burnaby, Canada",
-            "content": "<strong>School of Computing Science, Simon Fraser University</strong><br>Graduate Student Researcher"
-        }
-    ],
-    "award": [
-      {
-        "time": "2023",
-        "content": "Gary M. Olson Award, UMSI"
-        }, 
-        {
-        "time": "2023",
-        "content": "Honourable Mention Award, ACM CHI"
-        }, 
-        {
-            "time": "2022",
-            "content": "Rising Stars in EECS"
-        },
-        {
-            "time": "2022",
-            "content": "Heidelberg Laureate Forum Young Researcher"
-        },
-        {
-            "time": "2019-2022",
-            "content": "Special Recognitions for Outstanding Reviews, ACM CSCW and CHI"
-        },
-        {
-            "time": "2020",
-            "content": "Best Short Paper Award, IEEE VL/HCC"
-        },
-        {
-            "time": "2020",
-            "content": "Honourable Mention Award, ACM CHI"
-        },
-        {
-            "time": "2019",
-            "content": "Best Paper Award, ACM CSCW"
-        },
-        {
-            "time": "2018",
-            "content": "Honourable Mention Award, ACM CHI"
-        },
-        {
-            "time": "2019",
-            "content": "UMSI Pre-candidacy Project Milestone Distinction Award"
-        },
-        {
-            "time": "2021",
-            "content": "Rackham Graduate Student Research Grant"
-        },
-        {
-            "time": "2016, 2018",
-            "content": "Computing Science Graduate Fellowship, Simon Fraser University"
-        }
-    ]
-  },
-  "invited_talks": [
-    {
-        "time": "2022",
-        "title": "Designing Future Computational Notebooks for Collaboration and Learning",
-        "location": "<strong>German Research Center for Artificial Intelligence (DFKI)</strong>, Virtual<br><strong>University of Pennsylvania @ Guest Lecture, Live and Literate Programming</strong>, Virtual<br><strong>Vanderbilt University @ Guest Lecture</strong>, Advanced Topics in SE, Nashville, TN<br><strong>University of Waterloo @ Rising Stars Speaker Series</strong>, Ontario, Canada<br><strong>University of Toronto @ Toronto Data Workshop</strong>, Ontario, Canada<br><strong>University of Notre Dame @ HCI seminars</strong>, Notre Dame, IN<br><strong>Syracuse University @ Syracuse HCI Summer Workshop</strong>, Virtual"
-    }
-  ],
-  "service": {
-    "pc": [
-        {
-            "time": "2023",
-            "content": "International Conference on Learning Analytics And Knowledge (LAK)"
-        },
-        {
-            "time": "2023",
-            "content": "ACM Conference on Human Factors in Computing Systems (CHI), Late Breaking Work"
-        },
-        {
-            "time": "2022",
-            "content": "Human Centered AI Workshop at NeurIPS (Neural Information Processing Systems) 2022"
-        },
-        {
-            "time": "2022",
-            "content": "ACM Conference on Human Factors in Computing Systems (CHI), Late Breaking Work"
-        },
-        {
-            "time": "2022",
-            "content": "International Conference on Learning Analytics And Knowledge (LAK)"
-        },
-        {
-            "time": "2021",
-            "content": "ACM Conference on Human Factors in Computing Systems (CHI), Late Breaking Work"
-        },
-        {
-            "time": "2020",
-            "content": "Artificial Intelligence in Education(AIED)"
-        }
-    ],
-    "review": [
-        {
-            "time": "2019-2022",
-            "content": "ACM Conference on Human Factors in Computing Systems (CHI)"
-        },
-        {
-            "time": "2019-2022",
-            "content": "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)"
-        },
-        {
-            "time": "2020-2022",
-            "content": "ACM Symposium on User Interface Software and Technology (UIST)"
-        },
-        {
-            "time": "2021-2022",
-            "content": "ACM Transactions on Computer-Human Interaction (TOCHI)"
-        },
-        {
-            "time": "2020-2022",
-            "content": "IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)"
-        },
-        {
-            "time": "2022",
-            "content": "The Journal of Computer Languages (COLA)"
-        },
-        {
-            "time": "2020",
-            "content": "ACM Transactions on Interactive Intelligent Systems (TiiS)"
-        },
-        {
-            "time": "2019",
-            "content": "ACM Conference on Tangible, Embedded, and Embodied Interactions (TEI)"
-        },
-        {
-            "time": "2019-2020",
-            "content": "Artificial Intelligence in Education(AIED)"
-        },
-        {
-            "time": "2022-2023",
-            "content": "International Conference on Learning Analytics And Knowledge (LAK)"
-        }
-    ],
-    "oc": [
-        {
-            "time": "2021",
-            "content": "ACM CHI session chair"
-        },
-        {
-            "time": "2021",
-            "content": "Conference on Neural Information Processing Systems(NeurIPS) student volunteer"
-        },
-        {
-            "time": "2019, 2021, 2022",
-            "content": "ACM CHI student volunteer"
-        },
-        {
-            "time": "2020",
-            "content": "ACM UIST student volunteer"
-        }
-    ],
-    "umsi": [
-        {
-            "time":"2022-2023",
-            "content": "University of Michigan Interactive and Social Computing (MISC) Student Coordinator"
-        },
-        {
-            "time":"2022",
-            "content": "Organizer of the UMSI Annual CHI Peer Review event"
-        }
-    ]
-  },
-  "teaching": [
-    {
-        "title": "University of Michigan",
-        "item": [
-            {
-                "time": "Winter 2021",
-                "content": "Graduate Student Instructor -- SI 579 (Building Interactive Applications)"
-            }
-        ]
-    },
-    {
-        "title": "Simon Fraser University",
-        "item": [
-            {
-                "time": "Spring 2018",
-                "content": "Teaching Assistant -- CMPT 363 (User Interface Design)"
-            },
-            {
-                "time": "Spring 2017",
-                "content": "Teaching Assistant -- CMPT 363 (User Interface Design)"
-            }
-        ]
     }
   ]
 }
