@@ -138,50 +138,49 @@ p {
 }
 
 //newly added
-// Styles for the Miscellaneous section
-.container--wide {
-  max-width: 1200px;   
-  margin: 0 auto;
-}
-
+// Styles for the Miscellaneous section在你的 `common.scss` 最末尾加上这段：
 .gallery {
   display: grid;
-  gap: 24px;
   grid-template-columns: repeat(3, 1fr);
-  margin-top: 24px;
-  padding: 10px;
-}
-
-@media (max-width: 900px) {
-  .gallery { grid-template-columns: repeat(2, 1fr); }
-}
-@media (max-width: 600px) {
-  .gallery { grid-template-columns: 1fr; }
+  gap: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 .gallery-item {
-  overflow: hidden;
-  border-radius: 12px;
-  background: #fff;
-  box-shadow: 0 2px 8px rgba(0,0,0,.08);
-  transition: transform .3s, box-shadow .3s;
-  text-align: center;
-  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
+
 .gallery-item:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 16px rgba(0,0,0,.15);
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
 }
+
 .gallery-item img {
   width: 100%;
-  aspect-ratio: 1 / 1;  
+  height: 200px;
   object-fit: cover;
-  display: block;
-  border-radius: 12px 12px 0 0;
+  border-radius: 6px;
 }
+
 .gallery-item figcaption {
-  margin-top: 8px;
-  font-size: .9rem;
-  color: $primary-darkgray;
-  font-style: italic;
+  font-size: 13px;
+  color: $primary-lightdark;
+  margin-top: 6px;
+  line-height: 1.4;
+}
+
+@media screen and (max-width: 900px) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .gallery {
+    grid-template-columns: 1fr;
+  }
 }

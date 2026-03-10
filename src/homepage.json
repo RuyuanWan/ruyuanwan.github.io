@@ -2,8 +2,6 @@
   "name": "Ruyuan",
   "title": "Ruyuan Wan",
   "subtitle": "Ph.D. student at The Pennsylvania State University",
-  "character": "./assets/april.svg",
-  "menu": ["ABOUT", "PROJECT", "MORE", "CONTACT"],
   "bio": {
     "name": "Ruyuan Wan",
     "cname": "",
@@ -15,23 +13,6 @@
     "about": "I am a second-year Ph.D. student in <a href='https://ist.psu.edu/'>Information Science and Technology at Pennsylvania State University</a>, working with <a href='https://crowd.ist.psu.edu'>Dr. Ting-hao 'Kenneth' Huang</a>. Prior to starting my Ph.D., I earned Master’s degrees in <a href='https://cse.umn.edu/datascience'>Data Science</a> and <a href='https://cla.umn.edu/linguistics'>Linguistics</a>, as well as a Bachelor's degree in <a href='https://cla.umn.edu/statistics'>Statistics</a> from the <a href='https://twin-cities.umn.edu/'>University of Minnesota</a>. During that time, I was advised by <a href='https://lanayarosh.com/'>Dr. Lana Yarosh</a> and <a href='https://dykang.github.io/'>Dr. Dongyeop Kang</a>.  I also earned a Master degree in <a href='https://cse.nd.edu'>Computer Science</a> at the <a href='https://www.nd.edu'>Univeristy of Notre Dame</a> where I studied in the <a href='https://hci.nd.edu'>ND-HCI lab</a>.",
     "bio": "My research lies at the intersection of <strong>Human Computer Interaction (HCI)</strong>, <strong>Natural Language Processing (NLP)</strong>, and <strong>Social Computing</strong>. I study how human communication and AI systems co-evolve under algorithmic and interface constraints in complex social contexts. I develop taxonomies, multilingual datasets, and evaluation frameworks–combining LLM benchmarking with qualitative methods–to improve the robustness, fairness, and safety of real-world human-AI systems."
   },
-  "featured_project": [
-    {
-      "name": "Understanding Challenges in Collaborative Data Science",
-      "figure": "./assets/teaser/colab.jpg",
-      "description": "<strong>Understand the challenges of collaborative data science</strong> in various setups, including real-time co-editing, multidisciplinary team communication, and reuse of analysis code."
-    },
-    {
-      "name": "Designing Collaborative Tools for Data Science Practitioners",
-      "figure": "./assets/teaser/design.jpg",
-      "description": "<strong>Design collaborative tools for data science practitioners</strong>, including contextual links for explanations, AI-assisted documentation, and visualizing data changes."
-    },
-    {
-      "name": "Designing Collaborative Tools for Programming Learners",
-      "figure": "./assets/teaser/learner.jpg",
-      "description": "<strong>Designing collaborative tools for programming learners</strong> by making it easier for students to seek instructional help or seek peer help for testing and reviewing code."
-    }
-  ],
   "publications": [
     {
       "category": "Peer Reviewed Conference Papers",
@@ -41,7 +22,7 @@
           "venue": "Under Review",
           "id": "ACL2026",
           "title": "'Newspaper Eat' Means 'Not Tasty': A Taxonomy and Benchmark for Coded Languages in Real-World Chinese Online Reviews",
-          "authors": "<strong>Ruyuan Wan*</strong>, Changye Li, and Ting-Hao 'Kenneth' Huang",
+          "authors": "<strong>Ruyuan Wan</strong>, Changye Li, and Ting-Hao 'Kenneth' Huang",
           "venue_full": "Under Review",
           "links": "<a href='./assets/pubs/2026_Coded_Language.pdf' class='pdf-link' target='_blank'>PDF</a>",
           "abstract": "",
@@ -50,10 +31,10 @@
           "is_featured": true
         },
         {
-          "venue": "CHI 2026, Best Paper Honorable Mention Award, top 5% <i class='fas fa-award'></i>",
+          "venue": "CHI 2026, Best Paper Honorable Mention Award, Top 5% <i class='fas fa-award'></i>",
           "id": "CHI2026",
           "title": "Red Teaming LLMs as Socio-Technical Practice: From Exploration and Data Creation to Evaluation",
-          "authors": "Adriana Alvarado Garcia*, <strong>Ruyuan Wan*</strong>, Ozioma Collins Oguine, and Karla Badillo-Urquiola",
+          "authors": "Adriana Alvarado Garcia*, <strong>Ruyuan Wan*</strong>, Ozioma C. Oguine, and Karla Badillo-Urquiola",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2026)",
           "links": "<a href='' class='paper-link' target='_blank'>Paper</a> <a href='./assets/pubs/CHI_Red_Teaming_Interviews.pdf' class='pdf-link' target='_blank'>PDF</a>",
           "abstract": "",
@@ -62,10 +43,10 @@
           "is_featured": true
         },
         {
-          "venue": "CHI 2025 Best Paper Honorable Mention Award, top 5% <i class='fas fa-award'></i>",
+          "venue": "CHI 2025, Best Paper Honorable Mention Award, Top 5% <i class='fas fa-award'></i>",
           "id": "CHI2025",
           "title": "Hashtag Re-Appropriation For Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)",
-          "authors": "<strong>Ruyuan Wan*</strong>, Lingbo Tong*, Tiffany Knearem, Toby Jia-Jun Li, Ting-Hao Kenneth Huang, and Qunfang Wu",
+          "authors": "<strong>Ruyuan Wan*</strong>, Lingbo Tong*, Tiffany Knearem, Toby Jia-Jun Li, Ting-Hao 'Kenneth' Huang, and Qunfang Wu",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2025)",
           "links": "<a href='https://dl.acm.org/doi/pdf/10.1145/3706598.3713379' class='paper-link' target='_blank'>Paper</a> <a href='https://arxiv.org/pdf/2501.18210' class='pdf-link' target='_blank'>PDF</a>",
           "abstract": "",
@@ -74,10 +55,10 @@
           "is_featured": true
         },
         {
-          "venue": "EMNLP 2024, Oral, 5% acceptance rate",
+          "venue": "EMNLP 2024, Oral, 5% Acceptance Rate",
           "id": "EMNLP2024",
           "title": "CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds",
-          "authors": "Min-Hsuan Yeh, <strong>Ruyuan Wan</strong>, and Ting-Hao Kenneth Huang",
+          "authors": "Min-Hsuan Yeh, <strong>Ruyuan Wan</strong>, and Ting-Hao 'Kenneth' Huang",
           "venue_full": "In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
           "links": "<a href='https://aclanthology.org/2024.emnlp-main.39/' class='paper-link' target='_blank'>Paper</a>",
           "abstract": "",
@@ -98,7 +79,7 @@
           "is_featured": true
         },
         {
-          "venue": "AAAI 2023, Oral, 10% acceptance rate",
+          "venue": "AAAI 2023, Oral, 10% Acceptance Rate",
           "id": "AAAI2023",
           "title": "Everyone’s Voice Matters: Quantifying Annotation Disagreement Using Demographic Information",
           "authors": "<strong>Ruyuan Wan</strong>, Jaehyung Kim, and Dongyeop Kang",
@@ -110,7 +91,7 @@
           "is_featured": true
         },
         {
-          "venue": "CSCW 2020, Outstanding Poster, top 5% <i class='fas fa-award'></i> ",
+          "venue": "CSCW 2020, Outstanding Poster, Top 5% <i class='fas fa-award'></i> ",
           "id": "CSCW2020",
           "title": "How much is a 'like' worth? Engagement and Retention in an Online Health Community",
           "authors": "<strong>Ruyuan Wan</strong>, Zachary Levonian, and Svetlana Yarosh",

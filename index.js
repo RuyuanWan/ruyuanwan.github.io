@@ -16,28 +16,12 @@ setTimeout(function(){
     loadHome()
   })
   
-
-  R.route('/cv', function(){
-    loadSection('.cv');
-  })
   R.route('/home', function(id){
     loadHome()
   })
 
   R.route('/publication', function(id){
      loadSection('.publication')
-  })
-
-  R.route('/join', function(id){
-    loadSection('.join')
-  })
-
-  R.route('/peach', function(id){
-    loadSection('.peach')
-  })
-
-  R.route('/teaching', function(id){
-    loadSection('.teaching')
   })
 
   R.route('/misc', function(id){
