@@ -50,7 +50,7 @@
           "is_featured": true
         },
         {
-          "venue": "CHI 2026 Best Paper Honorable Mention Award <i class='fas fa-award'>",
+          "venue": "CHI 2026 Best Paper Honorable Mention Award <i class='fas fa-award'></i>",
           "id": "CHI2026",
           "title": "Red Teaming LLMs as Socio-Technical Practice: From Exploration and Data Creation to Evaluation",
           "authors": "Adriana Alvarado Garcia*, <strong>Ruyuan Wan*</strong>, Ozioma Collins Oguine, and Karla Badillo-Urquiola",
