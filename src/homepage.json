@@ -117,6 +117,11 @@
       "ispast": false
     },
     {
+      "date": "June 14-18, 2026",
+      "event": "HCIC 2026, Colorado, U.S.",
+      "ispast": false
+    },     
+    {
       "date": "April 13–17, 2026",
       "event": "CHI 2026, Barcelona, Spain",
       "ispast": false
@@ -167,6 +172,14 @@
       "date": "10/2026",
       "news": "I am co-organizing the 5th NLP for Positive Impact workshop at EMNLP 2026."
     },    
+    {
+      "date": "7/2026",
+      "news": "I am co-organizing the 2nd Pluralistic Alignment workshop at ICML 2026."
+    }, 
+    {
+      "date": "03/2026",
+      "news": "Gave a talk at the University of Wisconsin–Madison on Creative Communication under Constraints."
+    },        
     {
       "date": "03/2026",
       "news": "My IBM internship paper got the Best Paper Honorable Mention Award at CHI 2026."
