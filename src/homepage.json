@@ -112,7 +112,17 @@
       "ispast": false
     },
     {
-      "date": "July 2–7, 2026",
+      "date": "Sep 27–30, 2026",
+      "event": "HCOMP 2026, Alexandria, U.S.",
+      "ispast": false      
+    },
+    {
+      "date": "July 9–11, 2026",
+      "event": "ICML 2026, Seoul, South Korea",
+      "ispast": false
+    },    
+    {
+      "date": "July 3–7, 2026",
       "event": "ACL 2026, San Diego, U.S.",
       "ispast": false
     },
@@ -124,7 +134,7 @@
     {
       "date": "April 13–17, 2026",
       "event": "CHI 2026, Barcelona, Spain",
-      "ispast": false
+      "ispast": true
     }, 
     {
       "date": "Nov 05-06, 2025",
