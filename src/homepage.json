@@ -19,11 +19,11 @@
       "item": [
 
         {
-          "venue": "ACL 2026, 19% Acceptance Rate",
+          "venue": "ACL 2026, Oral, 4% Acceptance Rate",
           "id": "ACL2026",
           "title": "'Newspaper Eat' Means 'Not Tasty': A Taxonomy and Benchmark for Coded Languages in Real-World Chinese Online Reviews",
           "authors": "<strong>Ruyuan Wan</strong>, Changye Li, and Ting-Hao 'Kenneth' Huang",
-          "venue_full": "Under Review",
+          "venue_full": "In Proceedings of The 64th Annual Meeting of the Association for Computational Linguistics",
           "links": "<a href='./assets/pubs/2026_Coded_Language.pdf' class='pdf-link' target='_blank'>PDF</a>",
           "abstract": "",
           "teaser": "./assets/teaser/CodedLang_Concept.png",

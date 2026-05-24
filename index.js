@@ -28,5 +28,6 @@ setTimeout(function(){
     loadSection('.misc')
   })
 
+  R.refresh()
 }, 500)
 
