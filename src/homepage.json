@@ -17,7 +17,18 @@
     {
       "category": "Peer Reviewed Conference Papers",
       "item": [
-
+        {
+          "venue": "Under Review",
+          "id": "NAACL2027",
+          "title": "What Counts as Attack Success? Evaluating Harmfulness in Red Teaming LLMs",
+          "authors": "<strong>Ruyuan Wan*</strong>, Adriana Alvarado Garcia*, Md Toufikuzzaman, Dongwon Lee, and Ting-Hao 'Kenneth' Huang",
+          "venue_full": "",
+          "links": "<a href='./assets/pubs/Red_Teaming_Evaluation.pdf' class='pdf-link' target='_blank'>PDF</a><a href='https://ruyuanwan.github.io/red-teaming-llms-evaluation/' class='demo-link' target='_blank'>Demo</a>",
+          "abstract": "",
+          "teaser": "./assets/teaser/harmfulness_eval.png",
+          "is_journal": false,
+          "is_featured": true
+        },
         {
           "venue": "ACL 2026, Oral, 4% Acceptance Rate",
           "id": "ACL2026",
@@ -109,27 +120,27 @@
     {
       "date": "Oct 24–29, 2026",
       "event": "EMNLP 2026, Budapest, Hungary",
-      "ispast": false
+      "ispast": true
     },
     {
       "date": "Sep 27–30, 2026",
       "event": "HCOMP 2026, Alexandria, U.S.",
-      "ispast": false      
+      "ispast": true      
     },
     {
       "date": "July 9–11, 2026",
       "event": "ICML 2026, Seoul, South Korea",
-      "ispast": false
+      "ispast": true
     },    
     {
       "date": "July 3–7, 2026",
       "event": "ACL 2026, San Diego, U.S.",
-      "ispast": false
+      "ispast": true
     },
     {
       "date": "June 14-18, 2026",
       "event": "HCIC 2026, Colorado, U.S.",
-      "ispast": false
+      "ispast": true
     },     
     {
       "date": "April 13–17, 2026",
@@ -180,11 +191,11 @@
   "news": [
     {
       "date": "10/2026",
-      "news": "I am co-organizing the 5th NLP for Positive Impact workshop at EMNLP 2026."
+      "news": "I co-organized the 5th NLP for Positive Impact workshop at EMNLP 2026."
     },    
     {
       "date": "7/2026",
-      "news": "I am co-organizing the 2nd Pluralistic Alignment workshop at ICML 2026."
+      "news": "I co-organized the 2nd Pluralistic Alignment workshop at ICML 2026."
     }, 
     {
       "date": "03/2026",
@@ -204,7 +215,7 @@
     },
     {
       "date": "7/2025",
-      "news": "I co-organzied the <a href='https://sites.google.com/view/nlp4positiveimpact'>4th Workshop on NLP for Positive Impact</a> at ACL 2025."
+      "news": "I co-organized the <a href='https://sites.google.com/view/nlp4positiveimpact'>4th Workshop on NLP for Positive Impact</a> at ACL 2025."
     },
     {
       "date": "01/2025",
@@ -216,7 +227,7 @@
     },
     {
       "date": "12/2024",
-      "news": "I co-organzied the <a href='https://pluralistic-alignment.github.io'>Pluralistic Alignment workshop</a> at NeurIPS 2024."
+      "news": "I co-organized the <a href='https://pluralistic-alignment.github.io'>Pluralistic Alignment workshop</a> at NeurIPS 2024."
     },
     {
       "date": "11/2024",
