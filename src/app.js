@@ -43,6 +43,21 @@ export function loadHome(){
   makeCircle(button);
 }
 
+export function initTopicFilter(){
+  const buttons = document.querySelectorAll('.topic-btn')
+  buttons.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      const topic = btn.getAttribute('data-topic')
+      buttons.forEach(function(b){ b.classList.toggle('active', b === btn) })
+      document.querySelectorAll('.paper-item').forEach(function(item){
+        const topics = (item.getAttribute('data-topics') || '').split('|')
+        const show = topic === 'all' || topics.indexOf(topic) !== -1
+        item.classList.toggle('hide', !show)
+      })
+    })
+  })
+}
+
 export function loadSection(name){
   const section = document.querySelector(name)
   cleanAll()
