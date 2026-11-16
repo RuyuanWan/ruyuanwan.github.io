@@ -672,3 +672,42 @@ img[alt=zurich] { width: 100%; }
 	.collage-strip img { height: auto; width: 100%; }
 	.collage-strip figcaption { position: static; white-space: normal; }
 }
+
+// Nüshu name next to the bio name
+.cname {
+  font-family: 'Noto Sans Nushu', sans-serif;
+}
+.cname {
+  writing-mode: vertical-rl;
+  line-height: 1.1;
+}
+.cname {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 12px;
+  padding: 0;
+}
+.cname {
+  text-orientation: sideways-left;
+}
+
+// Nüshu: each glyph rotated 90° clockwise, stacked top to bottom
+.cname {
+  writing-mode: horizontal-tb;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1;
+}
+.cname-char {
+  display: block;
+  width: 1em;
+  height: 1em;
+  transform: rotate(90deg);
+}
+
+.cn-name {
+  font-size: 18px;
+  margin-left: 12px;
+  color: #666;
+}

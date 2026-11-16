@@ -7,7 +7,10 @@
                 img(src=data.bio.avatar, id="avatar")
     .header_title
         p.name #{data.bio.name}
-        span.cname #{data.bio.cname}
+        span.cn-name #{data.bio.zh_name}
+        span.cname(title="Nüshu (女书): a women's syllabic script from Jiangyong, Hunan, China")
+            each ch in [...data.bio.cname]
+                span.cname-char= ch
         p.edu #{data.bio.education} 
         p.edu #{data.bio.affiliation}
         .icons
