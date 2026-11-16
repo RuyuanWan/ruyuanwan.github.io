@@ -7,8 +7,7 @@
                 img(src=data.bio.avatar, id="avatar")
     .header_title
         p.name #{data.bio.name}
-        span.cn-name #{data.bio.zh_name}
-        span.cname(title="Nüshu (女书): a women's syllabic script from Jiangyong, Hunan, China")
+        a.cname(href="https://en.wikipedia.org/wiki/N%C3%BCshu" target="_blank" data-tip="My name in Nüshu. Nüshu is a women’s syllabic script from Jiangyong, Hunan, China. Learn more on Wikipedia.")
             each ch in [...data.bio.cname]
                 span.cname-char= ch
         p.edu #{data.bio.education} 
@@ -17,7 +16,7 @@
             a(href='mailto:rjw6289@psu.edu')
                 <i class="fa fa-envelope"></i>
             a(target="_blank" href='https://x.com/Ruyuan_Wan')
-                <i class="fab fa-twitter"></i>
+                <svg class="x-icon" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" aria-label="X"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
             a(target="_blank" href='https://www.linkedin.com/in/ruyuan-wan-07804b139/')
                 <i class="fab fa-linkedin"></i>
             a(target="_blank" href='https://scholar.google.com/citations?user=_na-dpMAAAAJ')
