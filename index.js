@@ -1,4 +1,4 @@
-import {loadHome, loadPublication, loadCV, loadPage, loadSection} from './src/app.js'
+import {loadHome, loadPublication, loadCV, loadPage, loadSection, initTopicFilter} from './src/app.js'
 import template from './src/homepage.pug'
 import data from './src/homepage.js'
 import style from './src/scss/common.scss'
@@ -11,7 +11,8 @@ document.querySelector("#app").innerHTML = html;
 setTimeout(function(){
   // addListeners()
   R.init();
-  
+  initTopicFilter();
+
   R.route('/', function(id){
     loadHome()
   })

@@ -87,7 +87,7 @@ header {
   padding: 20px;
   border-radius: 10px;
   line-height: 22px;
-  color: rgba(58, 4, 4, 0.4901960784);
+  color: rgba(48, 48, 48, 0.4901960784);
 }
 
 .project > img {
@@ -377,6 +377,62 @@ header {
   left: 170px;
 }
 
+.topic-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0 20px;
+}
+
+.topic-btn {
+  font-size: 13px;
+  padding: 4px 12px;
+  border: 1px solid #675036;
+  border-radius: 16px;
+  background: transparent;
+  color: #675036;
+  cursor: pointer;
+}
+
+.topic-btn.active,
+.topic-btn:hover {
+  background: #675036;
+  color: #fff;
+}
+
+.topic-btn.topic-hci {
+  border-color: #EAC983;
+  color: #8a6a22;
+}
+
+.topic-btn.topic-social {
+  border-color: #F48B7B;
+  color: #b4574a;
+}
+
+.topic-btn.topic-nlp {
+  border-color: #AACFDA;
+  color: #3f7383;
+}
+
+.topic-btn.topic-hci.active, .topic-btn.topic-hci:hover {
+  background: #EAC983;
+  border-color: #EAC983;
+  color: #333;
+}
+
+.topic-btn.topic-social.active, .topic-btn.topic-social:hover {
+  background: #F48B7B;
+  border-color: #F48B7B;
+  color: #333;
+}
+
+.topic-btn.topic-nlp.active, .topic-btn.topic-nlp:hover {
+  background: #AACFDA;
+  border-color: #AACFDA;
+  color: #333;
+}
+
 .venn-pub-list > ul > li {
   text-decoration: none;
   text-align: right;
@@ -568,6 +624,119 @@ img[alt=zurich] {
   background: rgba(228, 235, 222, 0.8862745098);
 }
 
+.paintings-collage {
+  --collage-w: calc((100cqw - 38px) * 0.7326);
+  container-type: inline-size;
+  width: 100%;
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  margin-top: 8px;
+}
+
+.collage-caption {
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.collage-strip {
+  flex: 0 0 var(--collage-w);
+}
+
+.collage-strip img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.collage-grid {
+  flex: 0 0 var(--collage-w);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.collage-grid .gallery-item img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+.collage-strip img,
+.collage-grid .gallery-item {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.collage-strip img:hover,
+.collage-grid .gallery-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.18);
+}
+
+@media (max-width: 600px) {
+  .paintings-collage {
+    flex-direction: column;
+  }
+  .collage-strip {
+    flex: none;
+    width: 100%;
+  }
+  .collage-grid {
+    flex: none;
+    width: 100%;
+  }
+}
+.collage-strip {
+  padding-bottom: 0;
+}
+
+.collage-strip figcaption,
+.collage-grid figcaption {
+  margin-top: 6px;
+  height: 24px;
+}
+
+.collage-strip figcaption {
+  font-size: 13px;
+  color: rgba(48, 48, 48, 0.4901960784);
+  line-height: 1.4;
+}
+
+.collage-strip {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.collage-strip img {
+  height: calc(var(--collage-w) + 60px);
+  width: auto;
+}
+
+.collage-strip figcaption {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  height: auto;
+  margin-top: 6px;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .collage-strip {
+    width: 100%;
+  }
+  .collage-strip img {
+    height: auto;
+    width: 100%;
+  }
+  .collage-strip figcaption {
+    position: static;
+    white-space: normal;
+  }
+}
 html {
   height: 100%;
   font-weight: 300;
