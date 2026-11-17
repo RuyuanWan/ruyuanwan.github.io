@@ -4,7 +4,10 @@
     .header_photo
         .info
             #avadiv
-                img(src=data.bio.avatar, id="avatar")
+                .avatar-flip
+                    .avatar-inner
+                        img#avatar(src=data.bio.avatar, alt="Ruyuan Wan")
+                        img.avatar-back(src="/assets/memoji.jpg", alt="Memoji")
     .header_title
         p.name #{data.bio.name}
         a.cname(href="https://en.wikipedia.org/wiki/N%C3%BCshu" target="_blank" data-tip="My name in Nüshu. Nüshu is a women’s syllabic script from Jiangyong, Hunan, China. Learn more on Wikipedia.")
