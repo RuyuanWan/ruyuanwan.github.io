@@ -122,11 +122,24 @@
           "is_featured": true
         },
         {
+          "venue": "AfriCHI 2023",
+          "id": "AfriCHI2023",
+          "topics": ["Pluralistic Alignment & Evaluation"],
+          "title": "Cultural Considerations in AI Systems for the Global South: A Systematic Review",
+          "authors": "Oghenemaro Anuyah, <strong>Ruyuan Wan</strong>, Cornelius Adejoro, Tom Yeh, Ronald Metoyer, and Karla Badillo-Urquiola",
+          "venue_full": "In Proceedings of the 4th African Human Computer Interaction Conference (AfriCHI 2023), East London, South Africa",
+          "links": "<a href='https://dl.acm.org/doi/abs/10.1145/3628096.3629046' class='paper-link' target='_blank'>Paper</a>",
+          "abstract": "",
+          "teaser": "./assets/teaser/global_south_map.png",
+          "is_journal": false,
+          "is_featured": false
+        },
+        {
           "venue": "2nd Workshop on Perspectivist Approaches to NLP at ECAI 2023",
           "id": "AnnotationImputation2023",
           "topics": ["Subjective Annotation & Disagreement", "Pluralistic Alignment & Evaluation"],
           "title": "Annotation Imputation to Individualize Predictions: Initial Studies on Distribution Dynamics and Model Predictions",
-          "authors": "London Lowmanstone, <strong>Ruyuan Wan</strong>, Risako Owan, Jaehyung Kim, and Dongyeop Kang",
+          "authors": "London Lowmanstone*, <strong>Ruyuan Wan*</strong>, Risako Owan, Jaehyung Kim, and Dongyeop Kang",
           "venue_full": "In Proceedings of the 2nd Workshop on Perspectivist Approaches to NLP at ECAI 2023",
           "links": "<a href='https://arxiv.org/pdf/2305.15070' class='paper-link' target='_blank'>Paper</a><a href='https://github.com/minnesotanlp/annotation-imputation' class='github-link' target='_blank'>Code</a>",
           "abstract": "",
