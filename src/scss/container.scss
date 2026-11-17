@@ -103,7 +103,7 @@ header {
 }
 
 .left-panel {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 20px;
 }
 
@@ -241,6 +241,13 @@ header {
   margin-left: 4px;
 }
 
+.github-link::after {
+  font-family: "Font Awesome 5 Brands";
+  font-weight: 400;
+  content: '\f09b';
+  margin-left: 4px;
+}
+
 .demo-link::after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -345,7 +352,7 @@ header {
 }
 
 .venn-pub-list {
-	font-size:12px;
+	font-size:14px;
 	line-height: 18px;
 	color: #666;
 	position: absolute;
@@ -370,7 +377,7 @@ header {
 	margin: 12px 0 20px;
 }
 .topic-btn {
-	font-size: 13px;
+	font-size: 14px;
 	padding: 4px 12px;
 	border: 1px solid #675036;
 	border-radius: 16px;
@@ -388,6 +395,8 @@ header {
 .topic-btn.topic-hci { border-color: #EAC983; color: #8a6a22; }
 .topic-btn.topic-social { border-color: #F48B7B; color: #b4574a; }
 .topic-btn.topic-nlp { border-color: #AACFDA; color: #3f7383; }
+.topic-btn.topic-subjective { border-color: #B5D99C; color: #4a6b2e; }
+.topic-btn.topic-subjective.active, .topic-btn.topic-subjective:hover { background: #B5D99C; border-color: #B5D99C; color: #333; }
 .topic-btn.topic-hci.active, .topic-btn.topic-hci:hover { background: #EAC983; border-color: #EAC983; color: #333; }
 .topic-btn.topic-social.active, .topic-btn.topic-social:hover { background: #F48B7B; border-color: #F48B7B; color: #333; }
 .topic-btn.topic-nlp.active, .topic-btn.topic-nlp:hover { background: #AACFDA; border-color: #AACFDA; color: #333; }
@@ -593,7 +602,7 @@ img[alt=zurich] { width: 100%; }
 	margin-top: 8px;
 }
 .collage-caption {
-	font-size: 13px;
+	font-size: 14px;
 	color: #666;
 	margin-bottom: 4px;
 }
@@ -644,7 +653,7 @@ img[alt=zurich] { width: 100%; }
 
 // Match the adventure gallery captions (.gallery-item figcaption in common.scss)
 .collage-strip figcaption {
-	font-size: 13px;
+	font-size: 14px;
 	color: #3030307d;
 	line-height: 1.4;
 }

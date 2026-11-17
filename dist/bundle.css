@@ -110,7 +110,7 @@ header {
 }
 
 .left-panel {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 20px;
 }
 
@@ -249,6 +249,13 @@ header {
   margin-left: 4px;
 }
 
+.github-link::after {
+  font-family: "Font Awesome 5 Brands";
+  font-weight: 400;
+  content: "\f09b";
+  margin-left: 4px;
+}
+
 .demo-link::after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -356,7 +363,7 @@ header {
 }
 
 .venn-pub-list {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 18px;
   color: #666;
   position: absolute;
@@ -385,7 +392,7 @@ header {
 }
 
 .topic-btn {
-  font-size: 13px;
+  font-size: 14px;
   padding: 4px 12px;
   border: 1px solid #675036;
   border-radius: 16px;
@@ -413,6 +420,17 @@ header {
 .topic-btn.topic-nlp {
   border-color: #AACFDA;
   color: #3f7383;
+}
+
+.topic-btn.topic-subjective {
+  border-color: #B5D99C;
+  color: #4a6b2e;
+}
+
+.topic-btn.topic-subjective.active, .topic-btn.topic-subjective:hover {
+  background: #B5D99C;
+  border-color: #B5D99C;
+  color: #333;
 }
 
 .topic-btn.topic-hci.active, .topic-btn.topic-hci:hover {
@@ -635,7 +653,7 @@ img[alt=zurich] {
 }
 
 .collage-caption {
-  font-size: 13px;
+  font-size: 14px;
   color: #666;
   margin-bottom: 4px;
 }
@@ -700,7 +718,7 @@ img[alt=zurich] {
 }
 
 .collage-strip figcaption {
-  font-size: 13px;
+  font-size: 14px;
   color: rgba(48, 48, 48, 0.4901960784);
   line-height: 1.4;
 }
@@ -858,7 +876,7 @@ body {
   line-height: 25px;
   font-family: -apple-system, system-ui, BlinkMacSystemFont;
   font-size: 17px;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 main {
@@ -873,7 +891,7 @@ main {
 }
 
 strong {
-  font-weight: 600;
+  font-weight: 700;
   color: #7c7c7c;
 }
 

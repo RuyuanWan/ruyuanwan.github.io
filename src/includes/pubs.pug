@@ -8,7 +8,7 @@
     //- each category in data.publications
     .topic-filter
         button.topic-btn.active(type='button', data-topic='all') All
-        each pair in [['Human-AI Interaction & Creativity', 'hci'], ['Language & Adaptation on Social Platforms', 'social'], ['Pluralistic Alignment & Evaluation', 'nlp']]
+        each pair in [['Human-AI Interaction & Creativity', 'hci'], ['Language & Adaptation on Social Platforms', 'social'], ['Pluralistic Alignment & Evaluation', 'nlp'], ['Subjective Annotation & Disagreement', 'subjective']]
             button.topic-btn(type='button', class='topic-' + pair[1], data-topic=pair[0]) #{pair[0]}
     .category
         //- p.category-title !{category.category}
@@ -19,7 +19,7 @@
                     .paper-figure
                         if item.video_teaser
                             .video !{item.video_teaser}
-                        else
+                        else if item.teaser
                             img(src=item.teaser)
                 .paper-right
                     .paper-title !{item.title}
