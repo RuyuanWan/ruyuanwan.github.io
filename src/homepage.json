@@ -20,7 +20,7 @@
         {
           "venue": "Under Review",
           "id": "NAACL2027",
-          "topics": ["Pluralistic Alignment & Evaluation"],
+          "topics": ["Responsible AI"],
           "title": "What Counts as Attack Success? Evaluating Harmfulness in Red Teaming LLMs",
           "authors": "<strong>Ruyuan Wan*</strong>, Adriana Alvarado Garcia*, Md Toufikuzzaman, Dongwon Lee, and Ting-Hao 'Kenneth' Huang",
           "venue_full": "",
@@ -46,7 +46,7 @@
         {
           "venue": "CHI 2026, Best Paper Honorable Mention Award, Top 5% <i class='fas fa-award'></i>",
           "id": "CHI2026",
-          "topics": ["Pluralistic Alignment & Evaluation"],
+          "topics": ["Responsible AI"],
           "title": "Red Teaming LLMs as Socio-Technical Practice: From Exploration and Data Creation to Evaluation",
           "authors": "Adriana Alvarado Garcia*, <strong>Ruyuan Wan*</strong>, Ozioma C. Oguine, and Karla Badillo-Urquiola",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2026)",
@@ -85,7 +85,7 @@
         {
           "venue": "EMNLP 2024, Oral, 5% Acceptance Rate",
           "id": "EMNLP2024",
-          "topics": ["Pluralistic Alignment & Evaluation", "Subjective Annotation & Disagreement"],
+          "topics": ["Subjective Annotation & Disagreement"],
           "title": "CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds",
           "authors": "Min-Hsuan Yeh, <strong>Ruyuan Wan</strong>, and Ting-Hao 'Kenneth' Huang",
           "venue_full": "In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)",
@@ -124,7 +124,7 @@
         {
           "venue": "AfriCHI 2023",
           "id": "AfriCHI2023",
-          "topics": ["Pluralistic Alignment & Evaluation"],
+          "topics": ["Responsible AI"],
           "title": "Cultural Considerations in AI Systems for the Global South: A Systematic Review",
           "authors": "Oghenemaro Anuyah, <strong>Ruyuan Wan</strong>, Cornelius Adejoro, Tom Yeh, Ronald Metoyer, and Karla Badillo-Urquiola",
           "venue_full": "In Proceedings of the 4th African Human Computer Interaction Conference (AfriCHI 2023), East London, South Africa",
@@ -137,7 +137,7 @@
         {
           "venue": "2nd Workshop on Perspectivist Approaches to NLP at ECAI 2023",
           "id": "AnnotationImputation2023",
-          "topics": ["Subjective Annotation & Disagreement", "Pluralistic Alignment & Evaluation"],
+          "topics": ["Subjective Annotation & Disagreement"],
           "title": "Annotation Imputation to Individualize Predictions: Initial Studies on Distribution Dynamics and Model Predictions",
           "authors": "London Lowmanstone*, <strong>Ruyuan Wan*</strong>, Risako Owan, Jaehyung Kim, and Dongyeop Kang",
           "venue_full": "In Proceedings of the 2nd Workshop on Perspectivist Approaches to NLP at ECAI 2023",
@@ -150,7 +150,7 @@
         {
           "venue": "AAAI 2023, Oral, 10% Acceptance Rate",
           "id": "AAAI2023",
-          "topics": ["Pluralistic Alignment & Evaluation", "Subjective Annotation & Disagreement"],
+          "topics": ["Subjective Annotation & Disagreement"],
           "title": "Everyone’s Voice Matters: Quantifying Annotation Disagreement Using Demographic Information",
           "authors": "<strong>Ruyuan Wan</strong>, Jaehyung Kim, and Dongyeop Kang",
           "venue_full": "In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2022)",
