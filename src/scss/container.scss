@@ -334,15 +334,15 @@ header {
 }
 
 .label {
-	font-size: 14px;
-	font-weight: bold;
+	font-size: 16px;
+	font-weight: 600;
 }
 
 .label1 {
 	position: absolute;
 	top: 70px;
 	left: 160px;
-	color: #F48B7B; //F48B7B
+	color: #b4574a;
 }
 
 .label2 {
@@ -350,7 +350,7 @@ header {
 	top: 200px;
 	left: 100px;
 	transform: rotate(0deg);
-	color: #EAC983;
+	color: #8a6a22;
 }
 
 .label3 {
@@ -358,13 +358,13 @@ header {
 	top: 200px;
 	left: 260px;
 	transform: rotate(-0deg);
-	color: #AACFDA
+	color: #3f7383;
 }
 
 .venn-pub-list {
-	font-size:14px;
-	line-height: 18px;
-	color: #666;
+	font-size:15px;
+	line-height: 21px;
+	color: #444;
 	position: absolute;
 }
 .cp {
