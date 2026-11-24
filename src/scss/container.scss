@@ -307,6 +307,40 @@ header {
   border-radius: 5px;
 }
 
+.bib-btn {
+  font: inherit;
+  font-size: 15px;
+  color: $link;
+  background-color: $button-bg;
+  margin-right: 5px;
+  padding: 5px 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.bib-btn::after {
+  content: '\25BE';
+  margin-left: 4px;
+}
+
+.bib-btn.active::after {
+  content: '\25B4';
+}
+
+.bib-block {
+  margin: 8px 0 4px;
+  padding: 10px 12px;
+  background-color: $button-bg;
+  border-radius: 5px;
+  font-family: inherit;
+  font-size: 15px;
+  line-height: 1.5;
+  color: inherit;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
 .RoundedButton {
 	width: 300px;
 	height: 300px;

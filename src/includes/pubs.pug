@@ -28,7 +28,9 @@
                     .paper-abstract !{item.abstract}
                     //- .paper-venue-full !{item.venue_full}
                     .paper-link !{item.links}
-                            span.all 
+                            button.bib-btn(type='button', aria-expanded='false') BibTeX
+                            span.all
+                            pre.bib-block(hidden)= item.bib 
     //- .all-pubs.paper-item.container    
     //-     .paper-left                  
     //-     .paper-right

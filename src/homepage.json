@@ -20,6 +20,7 @@
         {
           "venue": "Under Review",
           "id": "NAACL2027",
+          "bib": "@unpublished{wan2027what,\n  title = {What Counts as Attack Success? Evaluating Harmfulness in Red Teaming LLMs},\n  author = {Ruyuan Wan and Adriana Alvarado Garcia and Md Toufikuzzaman and Dongwon Lee and Ting-Hao Huang},\n  year = {2027},\n  note = {Under review}\n}",
           "topics": ["Responsible AI"],
           "title": "What Counts as Attack Success? Evaluating Harmfulness in Red Teaming LLMs",
           "authors": "<strong>Ruyuan Wan*</strong>, Adriana Alvarado Garcia*, Md Toufikuzzaman, Dongwon Lee, and Ting-Hao 'Kenneth' Huang",
@@ -33,6 +34,7 @@
         {
           "venue": "ACL 2026, Oral, 4% Acceptance Rate",
           "id": "ACL2026",
+          "bib": "@inproceedings{wan2026newspaper,\n  title={\"Newspaper Eat\" Means \"Not Tasty\": A Taxonomy and Benchmark for Coded Language in Real-World Chinese Online Reviews},\n  author={Wan, Ruyuan and Li, Changye and Huang, Ting-Hao},\n  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},\n  pages={9433--9446},\n  year={2026}\n}",
           "topics": ["Language & Adaptation on Social Platforms"],
           "title": "'Newspaper Eat' Means 'Not Tasty': A Taxonomy and Benchmark for Coded Languages in Real-World Chinese Online Reviews",
           "authors": "<strong>Ruyuan Wan</strong>, Changye Li, and Ting-Hao 'Kenneth' Huang",
@@ -46,6 +48,7 @@
         {
           "venue": "CHI 2026, Best Paper Honorable Mention Award, Top 5% <i class='fas fa-award'></i>",
           "id": "CHI2026",
+          "bib": "@inproceedings{garcia2026red,\n  title = {Red Teaming LLMs as Socio-Technical Practice: From Exploration and Data Creation to Evaluation},\n  author = {Adriana Alvarado Garcia and Ruyuan Wan and Ozioma C. Oguine and Karla Badillo-Urquiola},\n  booktitle = {ACM Conference on Human Factors in Computing Systems (CHI 2026)},\n  year = {2026}\n}",
           "topics": ["Responsible AI"],
           "title": "Red Teaming LLMs as Socio-Technical Practice: From Exploration and Data Creation to Evaluation",
           "authors": "Adriana Alvarado Garcia*, <strong>Ruyuan Wan*</strong>, Ozioma C. Oguine, and Karla Badillo-Urquiola",
@@ -59,6 +62,7 @@
         {
           "venue": "HCI+NLP 2025 Workshop at EMNLP 2025",
           "id": "HCINLP2025",
+          "bib": "@inproceedings{wan2025from,\n  title = {From Noise to Nuance: Enriching Subjective Data Annotation through Qualitative Analysis},\n  author = {Ruyuan Wan and Haonan Wang and Ting-Hao Huang and Jie Gao},\n  booktitle = {Fourth Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP 2025), pages 240–254},\n  year = {2025}\n}",
           "topics": ["Subjective Annotation & Disagreement"],
           "title": "From Noise to Nuance: Enriching Subjective Data Annotation through Qualitative Analysis",
           "authors": "<strong>Ruyuan Wan</strong>, Haonan Wang, Ting-Hao 'Kenneth' Huang, and Jie Gao",
@@ -72,6 +76,7 @@
         {
           "venue": "CHI 2025, Best Paper Honorable Mention Award, Top 5% <i class='fas fa-award'></i>",
           "id": "CHI2025",
+          "bib": "@inproceedings{wan2025hashtag,\n  title = {Hashtag Re-Appropriation For Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)},\n  author = {Ruyuan Wan and Lingbo Tong and Tiffany Knearem and Toby Jia-Jun Li and Ting-Hao Huang and Qunfang Wu},\n  booktitle = {ACM Conference on Human Factors in Computing Systems (CHI 2025)},\n  year = {2025}\n}",
           "topics": ["Language & Adaptation on Social Platforms"],
           "title": "Hashtag Re-Appropriation For Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)",
           "authors": "<strong>Ruyuan Wan*</strong>, Lingbo Tong*, Tiffany Knearem, Toby Jia-Jun Li, Ting-Hao 'Kenneth' Huang, and Qunfang Wu",
@@ -85,6 +90,7 @@
         {
           "venue": "EMNLP 2024, Oral, 5% Acceptance Rate",
           "id": "EMNLP2024",
+          "bib": "@inproceedings{yeh2024cocolofa,\n  title = {CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds},\n  author = {Min-Hsuan Yeh and Ruyuan Wan and Ting-Hao Huang},\n  booktitle = {Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)},\n  year = {2024}\n}",
           "topics": ["Subjective Annotation & Disagreement"],
           "title": "CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds",
           "authors": "Min-Hsuan Yeh, <strong>Ruyuan Wan</strong>, and Ting-Hao 'Kenneth' Huang",
@@ -98,6 +104,7 @@
         {
           "venue": "C&C 2024, Creativity and Cognition",
           "id": "CoCoMatrix2024",
+          "bib": "@inproceedings{wan2024coco,\n  title = {CoCo Matrix: Taxonomy of Cognitive Contributions in Co-writing with Intelligent Agents},\n  author = {Ruyuan Wan and Simret Gebreegziabher and Toby Jia-Jun Li and Karla Badillo-Urquiola},\n  booktitle = {2024 ACM Conference on Creativity and Cognition (C&C 2024)},\n  year = {2024}\n}",
           "topics": ["Human-AI Interaction & Creativity"],
           "title": "CoCo Matrix: Taxonomy of Cognitive Contributions in Co-writing with Intelligent Agents",
           "authors": "<strong>Ruyuan Wan</strong>, Simret Gebreegziabher, Toby Jia-Jun Li, and Karla Badillo-Urquiola",
@@ -111,6 +118,7 @@
         {
           "venue": "WiNLP 2023 Workshop (non-archival)",
           "id": "WiNLP2023",
+          "bib": "@inproceedings{wan2023digital,\n  title = {Digital and Historical Exclusivity in Feminine Linguistics: From Nüshu to Xiaohongshu},\n  author = {Ruyuan Wan and Lingbo Tong},\n  booktitle = {The Seventh Widening NLP workshop at EMNLP 2023},\n  year = {2023}\n}",
           "topics": ["Language & Adaptation on Social Platforms"],
           "title": "Digital and Historical Exclusivity in Feminine Linguistics: From Nüshu to Xiaohongshu",
           "authors": "<strong>Ruyuan Wan</strong> and Lingbo Tong",
@@ -124,6 +132,7 @@
         {
           "venue": "AfriCHI 2023",
           "id": "AfriCHI2023",
+          "bib": "@inproceedings{anuyah2023cultural,\n  title = {Cultural Considerations in AI Systems for the Global South: A Systematic Review},\n  author = {Oghenemaro Anuyah and Ruyuan Wan and Cornelius Adejoro and Tom Yeh and Ronald Metoyer and Karla Badillo-Urquiola},\n  booktitle = {4th African Human Computer Interaction Conference (AfriCHI 2023), East London, South Africa},\n  year = {2023}\n}",
           "topics": ["Responsible AI"],
           "title": "Cultural Considerations in AI Systems for the Global South: A Systematic Review",
           "authors": "Oghenemaro Anuyah, <strong>Ruyuan Wan</strong>, Cornelius Adejoro, Tom Yeh, Ronald Metoyer, and Karla Badillo-Urquiola",
@@ -137,6 +146,7 @@
         {
           "venue": "2nd Workshop on Perspectivist Approaches to NLP at ECAI 2023",
           "id": "AnnotationImputation2023",
+          "bib": "@inproceedings{lowmanstone2023annotation,\n  title = {Annotation Imputation to Individualize Predictions: Initial Studies on Distribution Dynamics and Model Predictions},\n  author = {London Lowmanstone and Ruyuan Wan and Risako Owan and Jaehyung Kim and Dongyeop Kang},\n  booktitle = {2nd Workshop on Perspectivist Approaches to NLP at ECAI 2023},\n  year = {2023}\n}",
           "topics": ["Subjective Annotation & Disagreement"],
           "title": "Annotation Imputation to Individualize Predictions: Initial Studies on Distribution Dynamics and Model Predictions",
           "authors": "London Lowmanstone*, <strong>Ruyuan Wan*</strong>, Risako Owan, Jaehyung Kim, and Dongyeop Kang",
@@ -150,6 +160,7 @@
         {
           "venue": "AAAI 2023, Oral, 10% Acceptance Rate",
           "id": "AAAI2023",
+          "bib": "@inproceedings{wan2023everyones,\n  title = {Everyone's Voice Matters: Quantifying Annotation Disagreement Using Demographic Information},\n  author = {Ruyuan Wan and Jaehyung Kim and Dongyeop Kang},\n  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2023)},\n  year = {2023}\n}",
           "topics": ["Subjective Annotation & Disagreement"],
           "title": "Everyone’s Voice Matters: Quantifying Annotation Disagreement Using Demographic Information",
           "authors": "<strong>Ruyuan Wan</strong>, Jaehyung Kim, and Dongyeop Kang",
@@ -163,6 +174,7 @@
         {
           "venue": "Data Science with Human-in-the-Loop Workshop at EMNLP 2022",
           "id": "DASH2022",
+          "bib": "@inproceedings{wan2022user,\n  title = {User or Labor: An Interaction Framework for Human-Machine Relationships in NLP},\n  author = {Ruyuan Wan and Naome Etori and Karla Badillo-Urquiola and Dongyeop Kang},\n  booktitle = {Fourth Workshop on Data Science with Human-in-the-Loop (Language Advances) at EMNLP 2022},\n  year = {2022}\n}",
           "topics": ["Human-AI Interaction & Creativity"],
           "title": "User or Labor: An Interaction Framework for Human-Machine Relationships in NLP",
           "authors": "<strong>Ruyuan Wan</strong>, Naome Etori, Karla Badillo-Urquiola, and Dongyeop Kang",
@@ -176,6 +188,7 @@
         {
           "venue": "CSCW 2020, Outstanding Poster, Top 5% <i class='fas fa-award'></i> ",
           "id": "CSCW2020",
+          "bib": "@inproceedings{wan2020how,\n  title = {How much is a 'like' worth? Engagement and Retention in an Online Health Community},\n  author = {Ruyuan Wan and Zachary Levonian and Svetlana Yarosh},\n  booktitle = {2020 Conference on Computer Supported Cooperative Work and Social Computing (CSCW2020)},\n  year = {2020}\n}",
           "topics": ["Language & Adaptation on Social Platforms"],
           "title": "How much is a 'like' worth? Engagement and Retention in an Online Health Community",
           "authors": "<strong>Ruyuan Wan</strong>, Zachary Levonian, and Svetlana Yarosh",

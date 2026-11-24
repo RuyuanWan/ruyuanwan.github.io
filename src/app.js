@@ -58,6 +58,20 @@ export function initTopicFilter(){
   })
 }
 
+export function initBibToggle(){
+  document.querySelectorAll('.bib-btn').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      const block = btn.parentElement.querySelector('.bib-block')
+      if(!block) return
+      const isHidden = block.hasAttribute('hidden')
+      if(isHidden) block.removeAttribute('hidden')
+      else block.setAttribute('hidden', '')
+      btn.setAttribute('aria-expanded', isHidden ? 'true' : 'false')
+      btn.classList.toggle('active', isHidden)
+    })
+  })
+}
+
 export function loadSection(name){
   const section = document.querySelector(name)
   cleanAll()

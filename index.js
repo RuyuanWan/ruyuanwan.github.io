@@ -1,4 +1,4 @@
-import {loadHome, loadPublication, loadCV, loadPage, loadSection, initTopicFilter} from './src/app.js'
+import {loadHome, loadPublication, loadCV, loadPage, loadSection, initTopicFilter, initBibToggle} from './src/app.js'
 import template from './src/homepage.pug'
 import data from './src/homepage.js'
 import style from './src/scss/common.scss'
@@ -12,6 +12,7 @@ setTimeout(function(){
   // addListeners()
   R.init();
   initTopicFilter();
+  initBibToggle();
 
   R.route('/', function(id){
     loadHome()

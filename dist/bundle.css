@@ -5,6 +5,7 @@
 /*!*******************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/common.scss (1) ***!
   \*******************************************************************************************************************/
+@charset "UTF-8";
 .container {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
@@ -315,6 +316,40 @@ header {
   margin-right: 5px;
   padding: 5px 8px;
   border-radius: 5px;
+}
+
+.bib-btn {
+  font: inherit;
+  font-size: 15px;
+  color: #798d5b;
+  background-color: rgba(210, 210, 210, 0.2509803922);
+  margin-right: 5px;
+  padding: 5px 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.bib-btn::after {
+  content: "▾";
+  margin-left: 4px;
+}
+
+.bib-btn.active::after {
+  content: "▴";
+}
+
+.bib-block {
+  margin: 8px 0 4px;
+  padding: 10px 12px;
+  background-color: rgba(210, 210, 210, 0.2509803922);
+  border-radius: 5px;
+  font-family: inherit;
+  font-size: 15px;
+  line-height: 1.5;
+  color: inherit;
+  white-space: pre-wrap;
+  word-break: break-word;
 }
 
 .RoundedButton {
